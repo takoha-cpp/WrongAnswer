@@ -1,0 +1,46 @@
+{
+  "rand_01.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAC3QNTmdP9e473vsd7iBkNQa/diverta_2019/B/in/rand_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAASPetwQ_oz1eT3Rx2M-8EDa/diverta_2019/B/out/rand_01.txt?dl=0"
+  },
+  "rand_02.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADYI7Bxb6Wn2PN56H9xbK8La/diverta_2019/B/in/rand_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAjldsC-kHT3jH9mZpQVgURa/diverta_2019/B/out/rand_02.txt?dl=0"
+  },
+  "rand_03.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAD_t3JsJbJmVJRA4X-6QqrTa/diverta_2019/B/in/rand_03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACPScGexwwdeSdqYL4qeL1da/diverta_2019/B/out/rand_03.txt?dl=0"
+  },
+  "rand_04.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADBMUP9xPTbVS7FWUrV8HeNa/diverta_2019/B/in/rand_04.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAZVNHZVw97KsV9wMParOeDa/diverta_2019/B/out/rand_04.txt?dl=0"
+  },
+  "rand_05.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAiFwGAJDcgz1qpnUHaLoJBa/diverta_2019/B/in/rand_05.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACDyJDgkdQx6WHK1dVdgYpYa/diverta_2019/B/out/rand_05.txt?dl=0"
+  },
+  "rand_06.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA1T-axNiBE88tbE8PhN71Ha/diverta_2019/B/in/rand_06.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAC0sU7briNOvBij51tcMmWVa/diverta_2019/B/out/rand_06.txt?dl=0"
+  },
+  "rand_07.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAC4UJmQD8eyyaCAeqLJcduBa/diverta_2019/B/in/rand_07.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAQuiCNsoVGAZ3_nnYEfpSIa/diverta_2019/B/out/rand_07.txt?dl=0"
+  },
+  "rand_08.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACw6beSIDKolitx_IjA_vwga/diverta_2019/B/in/rand_08.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADs9RQSc4da-3wix92d38_ma/diverta_2019/B/out/rand_08.txt?dl=0"
+  },
+  "rand_09.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADSedHPgkTb9CEib9lQpeFLa/diverta_2019/B/in/rand_09.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAaoHKBDI1gkE2mYVSrDqE3a/diverta_2019/B/out/rand_09.txt?dl=0"
+  },
+  "sample_01.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACf_j0io3AMuTreQmUbdDzaa/diverta_2019/B/in/sample_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADmFwyGZfRmpUeEJ0VJamPka/diverta_2019/B/out/sample_01.txt?dl=0"
+  },
+  "sample_02.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACgsm_XQG6MngaKtUFzrGy3a/diverta_2019/B/in/sample_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABDq2WOPi_g37_vx0-3BLiza/diverta_2019/B/out/sample_02.txt?dl=0"
+  }
+}

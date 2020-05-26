@@ -1,0 +1,458 @@
+{
+  "000.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAB94Z6jNwSsGfJ2RWlXzHpIa/CodeFestival2017QualB/F/in/000.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADdgezRuKC0VCGkHt1KEXsGa/CodeFestival2017QualB/F/out/000.txt?dl=0"
+  },
+  "001.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAChNpqUof7CSSYfm8aya_MRa/CodeFestival2017QualB/F/in/001.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADi-2RP0zJSxo5sjUvlzxhba/CodeFestival2017QualB/F/out/001.txt?dl=0"
+  },
+  "002.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABPT7InE2xEtn1hiLVQAoXDa/CodeFestival2017QualB/F/in/002.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACIvZ3OdfV3bnRRldpK8OGla/CodeFestival2017QualB/F/out/002.txt?dl=0"
+  },
+  "003.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABmx8d_x1_7IE0HC6ti8lFxa/CodeFestival2017QualB/F/in/003.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACNI8kPjARKsPzHzvogQJ02a/CodeFestival2017QualB/F/out/003.txt?dl=0"
+  },
+  "004.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAB1fKyZhcSMcd8zDy_5LDo6a/CodeFestival2017QualB/F/in/004.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACJTwM3jCeQmLZsUTr5_e8Da/CodeFestival2017QualB/F/out/004.txt?dl=0"
+  },
+  "005.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACcQx_P-yolDVqdKqXYGk45a/CodeFestival2017QualB/F/in/005.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAGJvXf9xlD4R3ZScdhZdwma/CodeFestival2017QualB/F/out/005.txt?dl=0"
+  },
+  "006.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAYUzuIWRv_Xubrw-rfMW9-a/CodeFestival2017QualB/F/in/006.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACHTDyfX4Ok9P_wBfna7L_qa/CodeFestival2017QualB/F/out/006.txt?dl=0"
+  },
+  "007.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAc-EkTAyoCZ-mT3EQ5OBzRa/CodeFestival2017QualB/F/in/007.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACmMof6v-ACMkrZ_stXrOmfa/CodeFestival2017QualB/F/out/007.txt?dl=0"
+  },
+  "008.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACaEvbbgwQwgcmJs0VIfweBa/CodeFestival2017QualB/F/in/008.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADpxNQ-8URp0aHoUfHHp_-ua/CodeFestival2017QualB/F/out/008.txt?dl=0"
+  },
+  "009.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAC0CvLYYu-Y0Ll703ACeOgZa/CodeFestival2017QualB/F/in/009.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACvMxWyGYmiwoVGOEGWxtO1a/CodeFestival2017QualB/F/out/009.txt?dl=0"
+  },
+  "010.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADmZuVX-b-p5CSgTpNRcGewa/CodeFestival2017QualB/F/in/010.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADqfeEiEaEsfXpx19PnEd-6a/CodeFestival2017QualB/F/out/010.txt?dl=0"
+  },
+  "011.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABfQVLFfHp2__cjBfuiuuiZa/CodeFestival2017QualB/F/in/011.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACu3sirPqsIHqE88PDqyR54a/CodeFestival2017QualB/F/out/011.txt?dl=0"
+  },
+  "012.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACN6LSOE9aUgrkuxDOmXFuAa/CodeFestival2017QualB/F/in/012.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABqC_OmpmvWK5ZaiDbK2ivMa/CodeFestival2017QualB/F/out/012.txt?dl=0"
+  },
+  "013.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADHNxBE3XiwvoG8xgdM3icra/CodeFestival2017QualB/F/in/013.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAybwEV1TK71MzRAkjbxDwda/CodeFestival2017QualB/F/out/013.txt?dl=0"
+  },
+  "014.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADbQU2nQhO7NVAQ5MNpLJuOa/CodeFestival2017QualB/F/in/014.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACyBWsL7XFhHfPIbJvNcWKXa/CodeFestival2017QualB/F/out/014.txt?dl=0"
+  },
+  "015.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAM-tbNXJZmSL46W37BciPca/CodeFestival2017QualB/F/in/015.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAl4VGU_HrmQ9KItbH0xXRWa/CodeFestival2017QualB/F/out/015.txt?dl=0"
+  },
+  "016.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADmJnZG-rU01j6AdBO4yNx8a/CodeFestival2017QualB/F/in/016.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAZHiW5wmvRlRW5ZEPTmRvza/CodeFestival2017QualB/F/out/016.txt?dl=0"
+  },
+  "017.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA0tqZq_gH-sgiMjawoPgOHa/CodeFestival2017QualB/F/in/017.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADi30fm8hJRBRIQ7TsJZa9da/CodeFestival2017QualB/F/out/017.txt?dl=0"
+  },
+  "018.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAjksic5LvjOZib8j7Ozfpaa/CodeFestival2017QualB/F/in/018.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAC0fF8f-Rp_ggQff48YfMWCa/CodeFestival2017QualB/F/out/018.txt?dl=0"
+  },
+  "019.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAD10ce_8EQt4dl8LhRP3bWDa/CodeFestival2017QualB/F/in/019.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAzDkZyqOVKgSgF14dnqxTYa/CodeFestival2017QualB/F/out/019.txt?dl=0"
+  },
+  "020.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABFJYcu12-BH3YjeJP46N9ga/CodeFestival2017QualB/F/in/020.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAD32s2m7-8fPLYaqjCCQehva/CodeFestival2017QualB/F/out/020.txt?dl=0"
+  },
+  "021.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAx0G7WoSefiJG914Xry_Eaa/CodeFestival2017QualB/F/in/021.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABa4Bum6NLfOFWga8LDO3Zwa/CodeFestival2017QualB/F/out/021.txt?dl=0"
+  },
+  "022.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADE1GysppsbM6Q-GM2cvBnZa/CodeFestival2017QualB/F/in/022.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA5jSZSgYMb1hRk9gBLdGPya/CodeFestival2017QualB/F/out/022.txt?dl=0"
+  },
+  "023.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA7YE4wXXPa9oEDbV94sd3Ra/CodeFestival2017QualB/F/in/023.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADXhSzd7qFdJS2eRfsDLq5ha/CodeFestival2017QualB/F/out/023.txt?dl=0"
+  },
+  "024.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABKGopaRpb1Q737glcAmnwua/CodeFestival2017QualB/F/in/024.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACXo3OOOwjTGiFhyLvFtu8na/CodeFestival2017QualB/F/out/024.txt?dl=0"
+  },
+  "025.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABtCnXQDNjhOqR2Ov3gVHGia/CodeFestival2017QualB/F/in/025.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACjBmVjtb6P5ThKLnKkAr94a/CodeFestival2017QualB/F/out/025.txt?dl=0"
+  },
+  "026.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAdEBYaVvw4Ujvkl9Hzi0TJa/CodeFestival2017QualB/F/in/026.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAfrzfjMggqFVZpUAnacvoZa/CodeFestival2017QualB/F/out/026.txt?dl=0"
+  },
+  "027.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADZWj2Wn5uqxhCu_NFMJzGja/CodeFestival2017QualB/F/in/027.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABXqRRSZjgcIymviKb4Nz6Ea/CodeFestival2017QualB/F/out/027.txt?dl=0"
+  },
+  "028.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABWDiF0YkzyzbA662zXUs8Ra/CodeFestival2017QualB/F/in/028.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAASCO9_Ax88tj7o2Rg1yz5Za/CodeFestival2017QualB/F/out/028.txt?dl=0"
+  },
+  "029.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACBOkV1qzMe3nndZ1APPabpa/CodeFestival2017QualB/F/in/029.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABj6dtp4S9uDxSubACER2Iwa/CodeFestival2017QualB/F/out/029.txt?dl=0"
+  },
+  "030.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAD9tvgjrZywjEP4lDXla5wWa/CodeFestival2017QualB/F/in/030.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACxG_1XA9Pckd60EBwAJYdTa/CodeFestival2017QualB/F/out/030.txt?dl=0"
+  },
+  "031.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA0IKdqLHIc5DZAPTW7_0joa/CodeFestival2017QualB/F/in/031.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABKeAU1KjHL0WzAUPdgM4cXa/CodeFestival2017QualB/F/out/031.txt?dl=0"
+  },
+  "032.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABa66R5bLbJaDVzLlomoIUGa/CodeFestival2017QualB/F/in/032.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADSQq2CkxMUMQNMWXZGDAYFa/CodeFestival2017QualB/F/out/032.txt?dl=0"
+  },
+  "033.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACKzVMGh6JtOJTZJW2fD14Ia/CodeFestival2017QualB/F/in/033.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABZqs8JZvjtPId0uUBeSk9sa/CodeFestival2017QualB/F/out/033.txt?dl=0"
+  },
+  "034.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAUyBsmiU-BbufEkTerjR-6a/CodeFestival2017QualB/F/in/034.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADp60n53KirPYccWF3VVBRsa/CodeFestival2017QualB/F/out/034.txt?dl=0"
+  },
+  "035.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAvfrdzCQnxFpcJ6MKl55yYa/CodeFestival2017QualB/F/in/035.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACS4u-eil4zbbQheIVoIrnpa/CodeFestival2017QualB/F/out/035.txt?dl=0"
+  },
+  "036.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADRSHzOYcHJPcTJdzdHJgpVa/CodeFestival2017QualB/F/in/036.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADVp5xyJml52yyprM40o4O6a/CodeFestival2017QualB/F/out/036.txt?dl=0"
+  },
+  "037.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADKuGjqYV5w-J4zLzI33uJHa/CodeFestival2017QualB/F/in/037.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAB6MCgCsERQRABDk833-DKda/CodeFestival2017QualB/F/out/037.txt?dl=0"
+  },
+  "038.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABK_dG99BBXOYSpNFa_RZNga/CodeFestival2017QualB/F/in/038.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAB7QPxBzaKUE16O9R8hScAFa/CodeFestival2017QualB/F/out/038.txt?dl=0"
+  },
+  "039.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA03_qe-xKkpA5w3UFOZfbBa/CodeFestival2017QualB/F/in/039.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACpGurcB3fj5xxKAg4KCUI8a/CodeFestival2017QualB/F/out/039.txt?dl=0"
+  },
+  "040.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACuYbpsSrCt23ueogtXYaZ1a/CodeFestival2017QualB/F/in/040.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA4aonmNxCX_Pc5UqvJhW9xa/CodeFestival2017QualB/F/out/040.txt?dl=0"
+  },
+  "041.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAO1fsboIl8RG1p9NcyjICqa/CodeFestival2017QualB/F/in/041.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADKTVzZMOB1HqyoKv-Y-Q5Qa/CodeFestival2017QualB/F/out/041.txt?dl=0"
+  },
+  "042.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACrbaCNN9gU-yIum1_DfjIDa/CodeFestival2017QualB/F/in/042.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACfmEDOmh0LyzF9d4dgi0saa/CodeFestival2017QualB/F/out/042.txt?dl=0"
+  },
+  "043.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABo1LK2rGTFIkQ1XMbhO08Pa/CodeFestival2017QualB/F/in/043.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABtd9LX_3AvYIdk3jVfH3Jja/CodeFestival2017QualB/F/out/043.txt?dl=0"
+  },
+  "044.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABxyzDt53CKZNUprxV_DycAa/CodeFestival2017QualB/F/in/044.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAD_vMWezG_hPzPwHtJ4H1nQa/CodeFestival2017QualB/F/out/044.txt?dl=0"
+  },
+  "045.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABKMJ3ciH0iSDowNupODUoOa/CodeFestival2017QualB/F/in/045.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADO7Zn3HI8Vrc3ArsFcOaoBa/CodeFestival2017QualB/F/out/045.txt?dl=0"
+  },
+  "046.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACR1wZWA17NKh4WzTj0a1Jya/CodeFestival2017QualB/F/in/046.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADAEpTo9GYfoWNobwTRbSU-a/CodeFestival2017QualB/F/out/046.txt?dl=0"
+  },
+  "047.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADHrPbUmmhtvOva3KIJBDlza/CodeFestival2017QualB/F/in/047.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABp9dRyfBd3_HWtliJq2Ql6a/CodeFestival2017QualB/F/out/047.txt?dl=0"
+  },
+  "048.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAC52TPWzjm7_ICXsOWlESg-a/CodeFestival2017QualB/F/in/048.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABX6eBwksmgRr7Fv8Ddnj0Ma/CodeFestival2017QualB/F/out/048.txt?dl=0"
+  },
+  "049.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA9Snn0jIjOeTscsdyd1OO0a/CodeFestival2017QualB/F/in/049.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABnW2ekkCrsAPaNlpC44X1Pa/CodeFestival2017QualB/F/out/049.txt?dl=0"
+  },
+  "050.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAILM7o3QJiAxE3QDqIVkHja/CodeFestival2017QualB/F/in/050.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAJLPRAqL73SU-e8m0khV6oa/CodeFestival2017QualB/F/out/050.txt?dl=0"
+  },
+  "051.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACm9jwUM9nFfN-6nqHLs3QFa/CodeFestival2017QualB/F/in/051.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAC9PPfV43OkxVMtFVDup-9wa/CodeFestival2017QualB/F/out/051.txt?dl=0"
+  },
+  "052.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACADtG8RhAJbwk6dvQFriKHa/CodeFestival2017QualB/F/in/052.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAFJysdnVnIXGr9Jd3eBAP4a/CodeFestival2017QualB/F/out/052.txt?dl=0"
+  },
+  "053.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAX2AQKuCkVWN7xegnizuraa/CodeFestival2017QualB/F/in/053.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAStbHzikRLpzvf5kijA8NWa/CodeFestival2017QualB/F/out/053.txt?dl=0"
+  },
+  "054.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAANCl26ZLslWQMPTsbdwzcca/CodeFestival2017QualB/F/in/054.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACEaB5nR412VrdeeaugucRfa/CodeFestival2017QualB/F/out/054.txt?dl=0"
+  },
+  "055.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAgEHfB-FnN57iX9PQhOFqja/CodeFestival2017QualB/F/in/055.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADAi5eE8xgqHvaL83if4P9Oa/CodeFestival2017QualB/F/out/055.txt?dl=0"
+  },
+  "056.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABFMjbsYumzikOkwPEJWSZ-a/CodeFestival2017QualB/F/in/056.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABtS1wFSr8hBTyPGhrRXauIa/CodeFestival2017QualB/F/out/056.txt?dl=0"
+  },
+  "057.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADiLfT2oNDEX6ex2gCglFEJa/CodeFestival2017QualB/F/in/057.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADHod50L1TAtYBHR4tNYuHwa/CodeFestival2017QualB/F/out/057.txt?dl=0"
+  },
+  "058.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACnLicSl3dmqzNxlXVoxImga/CodeFestival2017QualB/F/in/058.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADjnmnxH5OpMfSulDQH5vtja/CodeFestival2017QualB/F/out/058.txt?dl=0"
+  },
+  "059.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAXXim5iHEQBVpMPqD0OMPja/CodeFestival2017QualB/F/in/059.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACe-1TV3Jr7jY0BjLEFzYg0a/CodeFestival2017QualB/F/out/059.txt?dl=0"
+  },
+  "060.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACOtR2AQFT6Pob-uwt_RyDGa/CodeFestival2017QualB/F/in/060.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAARg09a0G7oeIYZbu4GyI2Ca/CodeFestival2017QualB/F/out/060.txt?dl=0"
+  },
+  "061.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAuPFPzcPRJkpys3czwEUhIa/CodeFestival2017QualB/F/in/061.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACLxy_5Ch5uLomTlQaWyDwka/CodeFestival2017QualB/F/out/061.txt?dl=0"
+  },
+  "062.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACqr4oMZgJ4J8fgAAh5eiCma/CodeFestival2017QualB/F/in/062.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAobN_Y9UaC71QwIh12PmrOa/CodeFestival2017QualB/F/out/062.txt?dl=0"
+  },
+  "063.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACD3LnWji45bYzU0BlXt546a/CodeFestival2017QualB/F/in/063.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABkk0tO1odow8p92WA3XNlMa/CodeFestival2017QualB/F/out/063.txt?dl=0"
+  },
+  "064.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAB6kv3ax7D2MiqKKEgLA0TKa/CodeFestival2017QualB/F/in/064.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABW36GFdW8OWByMJ1VckoRna/CodeFestival2017QualB/F/out/064.txt?dl=0"
+  },
+  "065.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACRzrVV0svR6E8RH_7-LFXya/CodeFestival2017QualB/F/in/065.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA5XxFt8n2x2olr8pHBMd_ba/CodeFestival2017QualB/F/out/065.txt?dl=0"
+  },
+  "066.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAZkq9aAiBHTKeeTljW1oaqa/CodeFestival2017QualB/F/in/066.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAtKC-JLJxb2haCWw7nA9wwa/CodeFestival2017QualB/F/out/066.txt?dl=0"
+  },
+  "067.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADpd-osmKF9ZzNK7-FkhMOSa/CodeFestival2017QualB/F/in/067.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADcOOT2kcB5fg3-3fpk6EXAa/CodeFestival2017QualB/F/out/067.txt?dl=0"
+  },
+  "068.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABvZT7rEI0wR2FPxqi7eAtGa/CodeFestival2017QualB/F/in/068.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADfVCwKLQd-hn5H1AZBzccSa/CodeFestival2017QualB/F/out/068.txt?dl=0"
+  },
+  "069.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAeczFmGsMLgSPz5uC1FwHoa/CodeFestival2017QualB/F/in/069.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACZ_IBPdSM08FlqF-LDFBSla/CodeFestival2017QualB/F/out/069.txt?dl=0"
+  },
+  "070.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAABf3Zb04XOSxk1_lci1mk_a/CodeFestival2017QualB/F/in/070.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABZCRpGRsb5mWbsmGegfUlFa/CodeFestival2017QualB/F/out/070.txt?dl=0"
+  },
+  "071.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABML0wVxAHoqHmMqsT14ST1a/CodeFestival2017QualB/F/in/071.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABwM7UHB7KJdBOfsU9P7Ti7a/CodeFestival2017QualB/F/out/071.txt?dl=0"
+  },
+  "072.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAETBhuBDO1_id1fyPo_q1Ma/CodeFestival2017QualB/F/in/072.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADUFHEwXUWnIexMoTFQsoyta/CodeFestival2017QualB/F/out/072.txt?dl=0"
+  },
+  "073.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABsB5aKInNWsxQJk0Jg8Fr9a/CodeFestival2017QualB/F/in/073.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAB14tQLKgbbY0RmlTQmVu0Ka/CodeFestival2017QualB/F/out/073.txt?dl=0"
+  },
+  "074.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAARZW1bKvSkJ4LVMpcBpWO7a/CodeFestival2017QualB/F/in/074.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACQceJGlhZrRtWzT6nXmHcNa/CodeFestival2017QualB/F/out/074.txt?dl=0"
+  },
+  "075.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA6Ha1hKwng4zgsrt_dRLJqa/CodeFestival2017QualB/F/in/075.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACpLprXuhALwW_tK486MBOua/CodeFestival2017QualB/F/out/075.txt?dl=0"
+  },
+  "076.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABuYx188NY4mAnqXNWOH-q_a/CodeFestival2017QualB/F/in/076.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABGpatmf8HySDebouuFC5h-a/CodeFestival2017QualB/F/out/076.txt?dl=0"
+  },
+  "077.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABRGvZHPdU8Xb3YpxcilkiRa/CodeFestival2017QualB/F/in/077.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABLMgrK-2y5cDy8F2Ts5wCga/CodeFestival2017QualB/F/out/077.txt?dl=0"
+  },
+  "078.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAC2PzaxngD5trh1qTr6z1MJa/CodeFestival2017QualB/F/in/078.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABDg53kOdZ--fUpqRE_QzMAa/CodeFestival2017QualB/F/out/078.txt?dl=0"
+  },
+  "079.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABuwN1xog4M3eXnm9lIp8Fsa/CodeFestival2017QualB/F/in/079.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAxUE6Ru2JW12gFh4XLsiVMa/CodeFestival2017QualB/F/out/079.txt?dl=0"
+  },
+  "080.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADh4owLYhyf7zLG_06GP8Uva/CodeFestival2017QualB/F/in/080.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABk8D8DQ5BnwWD3mdOy0ecHa/CodeFestival2017QualB/F/out/080.txt?dl=0"
+  },
+  "081.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADqHE6ZT0tqEGPi8ZFHJ4dea/CodeFestival2017QualB/F/in/081.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAxrG3NfowoN-G48CNVxvuFa/CodeFestival2017QualB/F/out/081.txt?dl=0"
+  },
+  "082.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABFSvU0PHkwVdqxbV9JLX4Ia/CodeFestival2017QualB/F/in/082.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADxLnXBA_OtCI9o1gVlABaQa/CodeFestival2017QualB/F/out/082.txt?dl=0"
+  },
+  "083.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAC8_sZbU1z0G99sDFVjoKI8a/CodeFestival2017QualB/F/in/083.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAVh99WJF3GLnlFRwmIpTPra/CodeFestival2017QualB/F/out/083.txt?dl=0"
+  },
+  "084.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABdavixHzdILuoUMbFnYHzaa/CodeFestival2017QualB/F/in/084.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAB0IWESSP9dyTbiIvHY4y2ta/CodeFestival2017QualB/F/out/084.txt?dl=0"
+  },
+  "085.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADaC1X_Jl-OgwGHrnGtqSLTa/CodeFestival2017QualB/F/in/085.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAC-IubT_0p4Tb2pTLL5LNXka/CodeFestival2017QualB/F/out/085.txt?dl=0"
+  },
+  "086.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADVJw0ZMmc1Kj9ZHAKdQU78a/CodeFestival2017QualB/F/in/086.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAALWlZZXsVvFvdOMGQknLXIa/CodeFestival2017QualB/F/out/086.txt?dl=0"
+  },
+  "087.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABQBQCHy4yLodd2RFc319FCa/CodeFestival2017QualB/F/in/087.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAC50cHdy14XRmbzRIKNToTTa/CodeFestival2017QualB/F/out/087.txt?dl=0"
+  },
+  "088.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAC_c_JOUN1QCyi8yc9HNIaca/CodeFestival2017QualB/F/in/088.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAC1zsBvpLR8OayE_QxZmopFa/CodeFestival2017QualB/F/out/088.txt?dl=0"
+  },
+  "089.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABGSSIDZtxP2kEsVrN3ThF0a/CodeFestival2017QualB/F/in/089.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACVucpqzuZ-6oPvXWWsNT0qa/CodeFestival2017QualB/F/out/089.txt?dl=0"
+  },
+  "090.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACjA1jtnlmQ9l542-vO41Sja/CodeFestival2017QualB/F/in/090.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAD6XEiP7wcojnW4KGObgL0ya/CodeFestival2017QualB/F/out/090.txt?dl=0"
+  },
+  "091.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACUqoiOyDx91I3Hhidk5syma/CodeFestival2017QualB/F/in/091.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADQkyWjkSFEdMUu_uyI_U-Ka/CodeFestival2017QualB/F/out/091.txt?dl=0"
+  },
+  "092.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAC1gAGlxKMgJ_OBcac9Ry1Ua/CodeFestival2017QualB/F/in/092.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABFm9riT57qRqaq_1_yM15Ba/CodeFestival2017QualB/F/out/092.txt?dl=0"
+  },
+  "093.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABPS640Hz3s393ODMNUnx1aa/CodeFestival2017QualB/F/in/093.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAANpLls8gdJMJz4ZcTr-ib1a/CodeFestival2017QualB/F/out/093.txt?dl=0"
+  },
+  "094.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABh7HDCeLMZ1EQXvuPIwAkAa/CodeFestival2017QualB/F/in/094.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADivYO_uLHhKaagqJwxYS1wa/CodeFestival2017QualB/F/out/094.txt?dl=0"
+  },
+  "095.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADZtEhU9XfhQzsC1umMa_T7a/CodeFestival2017QualB/F/in/095.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABkAEQCl8Euw-htfhoblbC8a/CodeFestival2017QualB/F/out/095.txt?dl=0"
+  },
+  "096.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACuwY9TCo5CbuIacUZLsLdda/CodeFestival2017QualB/F/in/096.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAvg7SgnqbAPDza8gLSzdRKa/CodeFestival2017QualB/F/out/096.txt?dl=0"
+  },
+  "097.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAD-o5WnX7PwldEgQFgolU-Ba/CodeFestival2017QualB/F/in/097.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADWwpp2t5QOVtX8Xr-aYbG7a/CodeFestival2017QualB/F/out/097.txt?dl=0"
+  },
+  "098.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAVYQncZaYaL5Z968hYL8vTa/CodeFestival2017QualB/F/in/098.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABek1Fxy4pUzVDy9P2e8Emla/CodeFestival2017QualB/F/out/098.txt?dl=0"
+  },
+  "099.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA29MoeqUDdk8SKwIX6i9zLa/CodeFestival2017QualB/F/in/099.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABeVu5JDsFwhbN_7g-MsSVGa/CodeFestival2017QualB/F/out/099.txt?dl=0"
+  },
+  "100.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAEleUN8oJH5CldzvTbE1cia/CodeFestival2017QualB/F/in/100.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAgU9XQInBW0mK-iaO_So5Wa/CodeFestival2017QualB/F/out/100.txt?dl=0"
+  },
+  "101.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACJ3p1m1XeQhPSC5-0EAL_Ka/CodeFestival2017QualB/F/in/101.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADiHiLp7sJoNbIO7Y3TG_nOa/CodeFestival2017QualB/F/out/101.txt?dl=0"
+  },
+  "102.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAJCHHkN-htgo9RzU8mBzb0a/CodeFestival2017QualB/F/in/102.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAH1P9fExC_iJGDhoY3UX0Ca/CodeFestival2017QualB/F/out/102.txt?dl=0"
+  },
+  "103.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAoofhtqu63FfO5yrliPp79a/CodeFestival2017QualB/F/in/103.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACy_PIyf6kg1TDdqEm8dzHka/CodeFestival2017QualB/F/out/103.txt?dl=0"
+  },
+  "104.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA52pJFRgW5eZiCd8LWYmfBa/CodeFestival2017QualB/F/in/104.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADaQXeB5j-d48EqQY5x3tNTa/CodeFestival2017QualB/F/out/104.txt?dl=0"
+  },
+  "105.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA1iuPc7_vxL6fGYmEfJW1Ka/CodeFestival2017QualB/F/in/105.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACGAn9P199f95OBZUa_FIR3a/CodeFestival2017QualB/F/out/105.txt?dl=0"
+  },
+  "106.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAf1-YemWd1vyCEqgIiSvUva/CodeFestival2017QualB/F/in/106.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABYEQAsbNZKClPsQo4c63j9a/CodeFestival2017QualB/F/out/106.txt?dl=0"
+  },
+  "107.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABkPGiaPLD9OH5si-z8nq9-a/CodeFestival2017QualB/F/in/107.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAOlkoF5iz-SPMNBhdXTCj1a/CodeFestival2017QualB/F/out/107.txt?dl=0"
+  },
+  "108.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABeeWBGXE-auW-quUcU_CECa/CodeFestival2017QualB/F/in/108.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADWurVzxZkWBuXDn7ZJ0sOEa/CodeFestival2017QualB/F/out/108.txt?dl=0"
+  },
+  "109.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAABCyG3xSueyo7ysE81j6zXa/CodeFestival2017QualB/F/in/109.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADeKN3IcdHI8K2skrKzEY4Ja/CodeFestival2017QualB/F/out/109.txt?dl=0"
+  },
+  "110.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABpEvWx9_5ocxFiSFrgVux8a/CodeFestival2017QualB/F/in/110.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACi8vfP-UUnjlO0pmUH9ByYa/CodeFestival2017QualB/F/out/110.txt?dl=0"
+  },
+  "111.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACWBBleZjOq61JtgqCnjM1Qa/CodeFestival2017QualB/F/in/111.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABTqZli9VeD-mSERONpmB9ba/CodeFestival2017QualB/F/out/111.txt?dl=0"
+  },
+  "example0.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABQiY-kF2fqt8y4ZCUHaTa-a/CodeFestival2017QualB/F/in/example0.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABE2LyFXtF-78fPAwRJ_QOwa/CodeFestival2017QualB/F/out/example0.txt?dl=0"
+  },
+  "example1.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADck6A55MONC3vTWpjsMCFoa/CodeFestival2017QualB/F/in/example1.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABgitwYzpVsXUZhvUc7IcPia/CodeFestival2017QualB/F/out/example1.txt?dl=0"
+  }
+}

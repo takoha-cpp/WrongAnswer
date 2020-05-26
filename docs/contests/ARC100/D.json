@@ -1,0 +1,162 @@
+{
+  "sample_01.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA_bsNsU419vDLszx7xYG1sa/ARC100/D/in/sample_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA8S8XEyCtBe0wPT6BkV2M7a/ARC100/D/out/sample_01.txt?dl=0"
+  },
+  "sample_02.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAMdQVDe3mVc5fnNRQS5W-ra/ARC100/D/in/sample_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABs-4d7DD6EjFmSg3ALU436a/ARC100/D/out/sample_02.txt?dl=0"
+  },
+  "sample_03.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACQFJqAWniEVpf5qAqDEG2Ca/ARC100/D/in/sample_03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABF9r7QlfruBUvJ2vDqF08Wa/ARC100/D/out/sample_03.txt?dl=0"
+  },
+  "subtask_1_01.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACgfj2D5ttyP2wQ7Nb55Qb_a/ARC100/D/in/subtask_1_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABH1WloW8ULUsYuN0UoCKm6a/ARC100/D/out/subtask_1_01.txt?dl=0"
+  },
+  "subtask_1_02.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAN23IKpqiW_lRG_4YnxKM2a/ARC100/D/in/subtask_1_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA6iYPyxJHgktElmWY41xODa/ARC100/D/out/subtask_1_02.txt?dl=0"
+  },
+  "subtask_1_03.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACJ9oxXyfn2WuDqiBS9uM4aa/ARC100/D/in/subtask_1_03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABI3zTQsHuM7ZHVaTa15Cwja/ARC100/D/out/subtask_1_03.txt?dl=0"
+  },
+  "subtask_1_04.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADo4bT4Ax7xU6F6z_db_dLXa/ARC100/D/in/subtask_1_04.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADuhwHxb2eib8dH1mqzLZyBa/ARC100/D/out/subtask_1_04.txt?dl=0"
+  },
+  "subtask_1_05.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABBfX9Bs_kLRauvPWyJFnNwa/ARC100/D/in/subtask_1_05.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADmshi2UASFvOWAXUpKmtAsa/ARC100/D/out/subtask_1_05.txt?dl=0"
+  },
+  "subtask_1_06.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABWAevtgWgMqZj-lVOlANs6a/ARC100/D/in/subtask_1_06.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAZWGvWKh49WSt1o27DH4ika/ARC100/D/out/subtask_1_06.txt?dl=0"
+  },
+  "subtask_1_07.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACLyf-wfLmtnp0NIeUpRKiCa/ARC100/D/in/subtask_1_07.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACMguvaDnyhlWpOpGFmzD64a/ARC100/D/out/subtask_1_07.txt?dl=0"
+  },
+  "subtask_1_08.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABzLawALwSswe9vDYG-YVoTa/ARC100/D/in/subtask_1_08.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACkHBQt6CKp00POAzQeVnopa/ARC100/D/out/subtask_1_08.txt?dl=0"
+  },
+  "subtask_1_09.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABPm5c3o62tUNI99nO9j-zha/ARC100/D/in/subtask_1_09.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAB21Rg936AOWSPC71NJlJ2Ba/ARC100/D/out/subtask_1_09.txt?dl=0"
+  },
+  "subtask_1_10.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADjoA2V71bb5Fn57cR2xyAUa/ARC100/D/in/subtask_1_10.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADTlt_k5C9DZpe0ix-6OIK-a/ARC100/D/out/subtask_1_10.txt?dl=0"
+  },
+  "subtask_1_11.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAOQ-t9rVSxFh_OJhfE2MFRa/ARC100/D/in/subtask_1_11.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAB6XI5tQ6J6Q-C54fz_tr5Ha/ARC100/D/out/subtask_1_11.txt?dl=0"
+  },
+  "subtask_1_12.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABzzxn3KdQCkiDetA0uKCEpa/ARC100/D/in/subtask_1_12.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAwGnM8sckaGyztRk5NCosxa/ARC100/D/out/subtask_1_12.txt?dl=0"
+  },
+  "subtask_1_13.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAwcEK9lLEtlGnHy1TbBc1xa/ARC100/D/in/subtask_1_13.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADZL2AzpNDhHM5t7r8Hcl6ba/ARC100/D/out/subtask_1_13.txt?dl=0"
+  },
+  "subtask_1_14.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAe6wPjMXff4_N6lWq5xxwVa/ARC100/D/in/subtask_1_14.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA6ihPVHhiivoLPnmrAFzX4a/ARC100/D/out/subtask_1_14.txt?dl=0"
+  },
+  "subtask_1_15.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAcLwK1GSpA-gyAOhSLQDq_a/ARC100/D/in/subtask_1_15.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADNyT3TACGjC2tTc3Dza_Jsa/ARC100/D/out/subtask_1_15.txt?dl=0"
+  },
+  "subtask_1_16.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA-5mhvQ8M-LqC4wc18EWZCa/ARC100/D/in/subtask_1_16.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAyKguUnLTtbiM58WyQ_WfXa/ARC100/D/out/subtask_1_16.txt?dl=0"
+  },
+  "subtask_1_17.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAH7lG5GMxD3MxfBedNefSla/ARC100/D/in/subtask_1_17.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADk50ujkb_V4tQtINBCl5pva/ARC100/D/out/subtask_1_17.txt?dl=0"
+  },
+  "subtask_1_18.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACNPRkqNccG2YSBOipwEqdha/ARC100/D/in/subtask_1_18.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABYt0t0CwcrqcietEg5vUaza/ARC100/D/out/subtask_1_18.txt?dl=0"
+  },
+  "subtask_1_19.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAem9NLcsEy05Vtq4sc7wbba/ARC100/D/in/subtask_1_19.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABUapVLecA6U7GI4Hk6vqKpa/ARC100/D/out/subtask_1_19.txt?dl=0"
+  },
+  "subtask_1_20.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABdfbFXVSBaUkq-uHzmNIZ8a/ARC100/D/in/subtask_1_20.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACvbMVxxkR6YWGtA2zBUaS-a/ARC100/D/out/subtask_1_20.txt?dl=0"
+  },
+  "subtask_1_21.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAALAALPE0KsLHHw3Y7Qcdaja/ARC100/D/in/subtask_1_21.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABVKaz4hZ-GJbk0OUi8EsxAa/ARC100/D/out/subtask_1_21.txt?dl=0"
+  },
+  "subtask_1_22.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAcjyNOvZfuh9CtWcQ6QSFFa/ARC100/D/in/subtask_1_22.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABXUHhovbJZEWedPhjD5bAVa/ARC100/D/out/subtask_1_22.txt?dl=0"
+  },
+  "subtask_1_23.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAaNCAzZ7Lz8LXGsjg1InUha/ARC100/D/in/subtask_1_23.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAB8Gmz0FWNlog9o4l2lJWGSa/ARC100/D/out/subtask_1_23.txt?dl=0"
+  },
+  "subtask_1_24.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADOBMSggZYO1JSV9ADn12j6a/ARC100/D/in/subtask_1_24.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAzIwa9NCMSrPwWHBbtOpbba/ARC100/D/out/subtask_1_24.txt?dl=0"
+  },
+  "subtask_1_25.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAwjIqWrelGSm6pIYekTcAXa/ARC100/D/in/subtask_1_25.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABe7mLHAqvd6jBd9l8-oMKwa/ARC100/D/out/subtask_1_25.txt?dl=0"
+  },
+  "subtask_1_26.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACHXgiKHAFxG6UdOCFae0EOa/ARC100/D/in/subtask_1_26.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACAaE8cgS1vO3494Bg8TiUra/ARC100/D/out/subtask_1_26.txt?dl=0"
+  },
+  "subtask_1_27.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABv03v-c0R0i0aWbwILieUza/ARC100/D/in/subtask_1_27.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADzStIaxwRUDXJBXhisofCAa/ARC100/D/out/subtask_1_27.txt?dl=0"
+  },
+  "subtask_1_28.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAA_8C3078I8OoKU-Dl3aI12a/ARC100/D/in/subtask_1_28.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABthAKKMUkEHwAqaT3Eo4naa/ARC100/D/out/subtask_1_28.txt?dl=0"
+  },
+  "subtask_1_29.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAcXIrEB5daf3T618Lcr6B-a/ARC100/D/in/subtask_1_29.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABCPVRuMhONUcqXKOEM0feZa/ARC100/D/out/subtask_1_29.txt?dl=0"
+  },
+  "subtask_1_30.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABURmpMXw5v_PeqbT54TxM0a/ARC100/D/in/subtask_1_30.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAdt9NWJLYTGpyijFn02ajDa/ARC100/D/out/subtask_1_30.txt?dl=0"
+  },
+  "subtask_1_31.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADcj979p9WgIiZ5h3g2uu00a/ARC100/D/in/subtask_1_31.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAU864CzOOHkFbEF9gOgK7ca/ARC100/D/out/subtask_1_31.txt?dl=0"
+  },
+  "subtask_1_32.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABj-eQjwfvimKaIPnecnm-Da/ARC100/D/in/subtask_1_32.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABJvcLXkCG9wdQP5WguyHT1a/ARC100/D/out/subtask_1_32.txt?dl=0"
+  },
+  "subtask_1_33.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADpclk_7OYgzxIgmAljio8va/ARC100/D/in/subtask_1_33.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAW89INyQeoQTj0LmVbas9La/ARC100/D/out/subtask_1_33.txt?dl=0"
+  },
+  "subtask_1_34.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADl_fKKfnFTpizSnrftNI8la/ARC100/D/in/subtask_1_34.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AABonZAQruuak9gRg3Ei3HOOa/ARC100/D/out/subtask_1_34.txt?dl=0"
+  },
+  "subtask_1_35.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADosk7720T_AGq88_s6FHwfa/ARC100/D/in/subtask_1_35.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADshak4IRhJ8qCqO3bUR3v4a/ARC100/D/out/subtask_1_35.txt?dl=0"
+  },
+  "subtask_1_36.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AADasFn_qEymHi7pf8RP1d1ha/ARC100/D/in/subtask_1_36.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAxJomkO9d-vbxcNFPeQavQa/ARC100/D/out/subtask_1_36.txt?dl=0"
+  },
+  "subtask_1_37.txt": {
+    "in": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AACBBptvVUKwuoEwNyxID76Ca/ARC100/D/in/subtask_1_37.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAB9-x_c_7Uxba54ckQl4ltMa/ARC100/D/out/subtask_1_37.txt?dl=0"
+  }
+}
