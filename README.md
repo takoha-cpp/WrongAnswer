@@ -1,12 +1,20 @@
 # WrongAnswer
 Wrong Answer downloads test data of specified AtCoder contest's test cases.
 
+(日本語の説明は英語の下。Japanese README is below English)
 
 ## Install
 
-DL or Clone this repository. Copy wa to any directory in your PATH.
+DL file "wa" only. or copy paste "wa".
+(All you need is "wa" file only, so don't try to clone this repository!)
 
 I have not made this installable via pip3 yet.
+
+## Requirements
+
+Python3 >= v3.6
+online-judge-tools
+requests
 
 ## How-to
 
@@ -31,3 +39,41 @@ WA will make copy of URLs into your local folder. So once you download specific 
 When AtCoder Inc. add another data set, I should upload that URL and there should be time gap for WA being able to download those data set. Please be patient and report to me if there are test data that already on AtCoder's Dropbox but WA cant' download them.
 
 Thank you.
+
+## インストール
+
+waだけコピーしてpathの通っているディレクトリにコピーしてください。
+まだpip3でインストールできるようにしていません。したこともないのでしばらくかかります。
+
+## 依存パッケージ
+
+online-judge-toolsが必須です。中でこのコードを勝手に呼んでいます。(いつもお世話になっております。開発者様、貢献者様方、ありがとうございます)
+
+requests (PythonでHTTP叩く時、必須なツール。online-judge-toolsも使っているので上を入れれば多分入ってる)
+
+# 使い方
+
+wa コンテスト 問題 テストケース
+
+コンテスト名は省略するとカレントディレクトリ名が利用されます。私がいつもコンテスト毎にディレクトリを切るためです。
+
+問題名はアルファベットのAからFとかですがコンテストによってはC1とかC2とかあったりします。小文字でかまいませんが大文字に勝手に変換されます。
+
+テストケース名は適当に入力するとファイル名にmatchする最初のテストケースがDLされます。いつか番号指定とかちゃんとできるようにしたいな。
+
+テストケースをはしょると1つの問題に対する全てのテストケースをDLします。A問題とかなら大丈夫ですが、D以降になると恐しくテストデータがでかくなる傾向があり1つで13MBとかも出てきます。そのため全部DLするというのはお勧めできません。WAを食らった憎い問題のテストケースだけDLしたほうが良いです。
+
+DLされたテストケースはonline-judge-toolsでテストするために1つのディレクトリに".in"と".out"の拡張子にリネームされて保存されます。ですので
+
+oj test -d A
+
+とかやればテストができます。こちらでは問題無く動いてますので、うまく行かない場合は適当に聞いて下さい。
+
+# 中身の話
+
+DropboxはWeb UIはSPAになっていて実は非公開APIを叩くと全ての公開folderとその中身のURLが取れWeb UIはそれを用いて画面を更新しているだけです。しかし全てのフォルダとファイルのURLはハッシュ値をURLに用いており、パスの構造からURLを推測することは不可能になっています。そのため全てのテストケースのファイルのURLを収集してこのリポジトリに登録してpathの関係からURLを検索できるようにしました。
+クローラの公開は問題になる可能性が否定できないため見送ります。
+
+ファイルのURLには必ずdl=0とのGETパラメータが付いていますが、見てわかる通り1にするだけでその中身をDLすることが可能です。
+
+URL登録式のため、AtCoder社がDropboxを更新してからこちらのDBを更新するまでに時差ができると思います。競技プログラマの皆様なら適当にプログラムを変えて対策されることでしょう。PR待ってます(笑
