@@ -214,6 +214,7 @@ elif MODE == Mode.PROBLEM:
             exit(1)
     url = re.sub(r'dl=0', 'dl=1', url);
     log.info(f"Downloading: {url}")
+    log.warning("This could be long! They make archive file by request each time.")
     r = session.get(url, headers=agent, stream=True)
     siz = sizeof_fmt(float(r.headers['Content-Length']))
     log.info(f"Size: {siz}")
