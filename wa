@@ -29,6 +29,7 @@ log.addHandler(log.logging.StreamHandler(sys.stderr))
 log.setLevel(log.logging.INFO)
 
 user_data_dir = pathlib.Path(appdirs.user_data_dir('wrong_answer'))
+os.makedirs(user_data_dir, exist_ok=True)
 GITHUB_URL = 'https://takoha-cpp.github.io/WrongAnswer'
 cache_dir = './.wrong_answer'
 target_dir = '.'
