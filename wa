@@ -65,7 +65,7 @@ def findContest(contest: str) -> str:
 
     if len(lines) == 0:
         log.warning(f"Contest {contest} not found in {BASE_URLS}")
-        log.error("Failed")
+        log.error(f"It seems like test data for {contest} were closed")
         exit(1)
 
     if len(lines) > 1:
