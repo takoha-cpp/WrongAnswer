@@ -10,7 +10,10 @@ import pathlib
 import zipfile
 import argparse
 import requests
+import onlinejudge.dispatch as dispatch
 import onlinejudge._implementation.logging as log
+import onlinejudge_api.get_contest as get_contest
+
 
 from enum import Enum, unique, auto
 from pathlib import Path, PurePath
@@ -35,13 +38,21 @@ agent = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
 }
 
+# sizeof_fmt is from https://bit.ly/3c5Lr6Z by Fred Cirera
+def sizeof_fmt(num, suffix='B'):
+    for unit in ['','Ki','Mi','Gi','Ti','Pi','Ei','Zi']:
+        if abs(num) < 1024.0:
+            return "%3.1f%s%s" % (num, unit, suffix)
+        num /= 1024.0
+    return "%.1f%s%s" % (num, 'Yi', suffix)
+
 def download(url, saveto):
     log.info(f"Download: {url}")
     r = session.get(url, headers=agent)
     if r.status_code != requests.codes.ok:
         log.error(f"Download '{url}' failed.")
     else:
-        log.info("Succeeded")
+        log.success("Succeeded")
     with open(saveto, "w") as f:
         f.write(r.text)
 
@@ -99,10 +110,6 @@ parser.add_argument('cases', nargs=argparse.REMAINDER)
 args = parser.parse_args()
 contest = args.contest
 
-# If contest is not set, use CWD as contest name
-if contest is None:
-    contest = os.path.basename(os.getcwd()).upper()
-
 argc = len(args.cases)
 if argc == 0:
     if args.contest is not None:
@@ -136,6 +143,31 @@ else:
     parser.print_help()
     exit(1)
 
+# If contest is not set, use CWD as contest name
+# Old ABC has some test data in ARC.
+# You can find ARC contest name from the problem's page URL
+if contest is None:
+    contest = os.path.basename(os.getcwd()).upper()
+    log.warning("Contest name not specified. Use current dir as contest name.")
+
+    # This is my rule. Each problem's web page urls are in '.problems'
+    if Path('.problems').exists():
+        with open('.problems') as f:
+            url = f.readlines()[ord(problem) - ord('A')].rsplit()[0]
+            contest = url.split('/')[-1].split('_')[0].upper()
+    else:
+        url = f"https://atcoder.jp/contests/{contest}"
+        result = get_contest.main(dispatch.contest_from_url(url), is_full=False, session=session)
+        ps = result['problems']
+        for i in ps:
+            if i['context']['alphabet'] == problem:
+                url = i['url']
+                break;
+        else:
+            log.error(f"Specified problem '{problem}' not found in the contest page")
+            exit(1)
+        contest = url.split('/')[-1].split('_')[0].upper()
+
 # This URL is for whole test cases of a contest. Ignore.
 [contest, URL] = findContest(contest).split()
 
@@ -161,7 +193,7 @@ if MODE == Mode.TESTCASE:
     target_dir += '/' + problem
     downloadSingleCase(URL1, target_dir)
     downloadSingleCase(URL2, target_dir, out=True)
-    log.info("Succeeded")
+    log.success("Succeeded")
     exit(0)
 
 elif MODE == Mode.PROBLEM:
@@ -183,7 +215,8 @@ elif MODE == Mode.PROBLEM:
     url = re.sub(r'dl=0', 'dl=1', url);
     log.info(f"Downloading: {url}")
     r = session.get(url, headers=agent, stream=True)
-    log.info(f"Size: {r.headers['Content-Length']}")
+    siz = sizeof_fmt(float(r.headers['Content-Length']))
+    log.info(f"Size: {siz}")
     b = r.raw.read(4096)
     bs = bytearray()
     while b:
