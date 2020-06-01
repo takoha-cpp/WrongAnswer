@@ -12,13 +12,19 @@ I have not made this installable via pip3 yet.
 
 ## Requirements
 
+```
 Python3 >= v3.6
 online-judge-tools
 requests
+```
 
 ## How-to
 
+```
 wa [contest-name] problem-name [testcase-name]
+wa --cotest contest-name problem
+wa --updatedb
+```
 
 If you omit contest-name, current directory will be used as contest name. (Because I make direcotry named after contest name always.)
 
@@ -53,7 +59,14 @@ requests (PythonでHTTP叩く時、必須なツール。online-judge-toolsも使
 
 # 使い方
 
-wa コンテスト 問題 テストケース
+
+```
+wa problem
+wa problem test-case
+wa contest problem test-case
+wa --contest contest-name problem
+wa --updatedb
+```
 
 コンテスト名は省略するとカレントディレクトリ名が利用されます。私がいつもコンテスト毎にディレクトリを切るためです。
 
