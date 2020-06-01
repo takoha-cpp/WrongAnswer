@@ -31,6 +31,7 @@ log.setLevel(log.logging.INFO)
 user_data_dir = pathlib.Path(appdirs.user_data_dir('wrong_answer'))
 os.makedirs(user_data_dir, exist_ok=True)
 GITHUB_URL = 'https://takoha-cpp.github.io/WrongAnswer'
+BASE_URLS = f"{user_data_dir}/folders.txt"
 cache_dir = './.wrong_answer'
 target_dir = '.'
 
@@ -58,7 +59,6 @@ def download(url, saveto):
         f.write(r.text)
 
 def findContest(contest: str) -> str:
-    BASE_URLS=f"{user_data_dir}/folders.txt"
     if not os.path.exists(BASE_URLS):
         download(GITHUB_URL + '/folders.txt', BASE_URLS)
     with open(BASE_URLS) as f:
@@ -104,12 +104,17 @@ parser = argparse.ArgumentParser(description = """Wrong Answer!! - Download AtCo
         its own crawler. Because of this, you might not be able to download the
         latest contest's test data. If you think the data already opened was not
         registered to this program's DB, please leave a issue at the github page.
-        Thank you.""", usage = '%(prog)s [contest [problem]] test_case')
+        Thank you.""", usage = '%(prog)s [contest] problem [test_case]')
 parser.add_argument('-c', '--contest')
+parser.add_argument('-u', '--updatedb')
 parser.add_argument('cases', nargs=argparse.REMAINDER)
 
 args = parser.parse_args()
 contest = args.contest
+
+if args.updatedb:
+    download(GITHUB_URL + '/folders.txt', BASE_URLS)
+    log.success(f"{BASE_URLS} updated.")
 
 argc = len(args.cases)
 if argc == 0:
@@ -238,7 +243,8 @@ elif MODE == Mode.PROBLEM:
             nfn = f"{target_dir}/{fn}.in"
         log.info(f"Create: {nfn}")
         with zf.open(i.filename) as fr:
-            with open(nfn, "wb") as fw:
-                fw.write(fr.read())
+            with open(nfn, "w") as fw:
+                for line in fr:
+                    fw.write(line.decode('utf-8').replace('\r',''))
     log.success(log.green('AC'))
     exit(0)
