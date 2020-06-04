@@ -226,6 +226,10 @@ elif MODE == Mode.PROBLEM:
     log.warning("This could be long! They make archive file each time by request.")
     log.info("Waiting a responce...")
     r = session.get(url, headers=agent, stream=True)
+    if r.status_code != requests.codes.ok:
+        log.error(f"Failed. {r.status_code}")
+        exit(1)
+
     log.info("Got a responce.")
     siz = sizeof_fmt(float(r.headers['Content-Length']))
     log.info(f"Reading... Size: {siz}")
