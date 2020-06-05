@@ -1,0 +1,42 @@
+{
+  "1.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADXUFKAOkHGSS0SGgaqwmNYa/caddi2018/A/in/1.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABz-tbemL_BNkzfjm9vtA5-a/caddi2018/A/out/1.txt?dl=0"
+  },
+  "2.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAADVzrskqcfpXn0DDO1zWXVa/caddi2018/A/in/2.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADFZlcHKRdUlxm1orw77g75a/caddi2018/A/out/2.txt?dl=0"
+  },
+  "3.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABElIcxmwECdmgoQJASTj6Ra/caddi2018/A/in/3.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACAa4R77OEj0ICaYmh_tLooa/caddi2018/A/out/3.txt?dl=0"
+  },
+  "4.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADE1mUO1UMDqJ6HUJVVFE5Ra/caddi2018/A/in/4.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAfFsGY-8f8S-E78jYKACwSa/caddi2018/A/out/4.txt?dl=0"
+  },
+  "5.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACVc5JSnSkKDZXKg78XU5xOa/caddi2018/A/in/5.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA-mK4C6l9v-FsTt6yOJX-Ra/caddi2018/A/out/5.txt?dl=0"
+  },
+  "6.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADLo0qQdtQ5t6yr95HV_38Sa/caddi2018/A/in/6.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA2u4y_RtlgJhhhYeyZZdLHa/caddi2018/A/out/6.txt?dl=0"
+  },
+  "7.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABHD8TVmmwHWWLM0q_Zn0mfa/caddi2018/A/in/7.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAClPYY6ezuIZaIPy8s7UoqTa/caddi2018/A/out/7.txt?dl=0"
+  },
+  "sample1.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABHuYrpQC3VMPfqd8wOJQFca/caddi2018/A/in/sample1.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADaasOT_RRZzLAeoTrMmTl9a/caddi2018/A/out/sample1.txt?dl=0"
+  },
+  "sample2.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB7gCk5IZHhIQsDo8wqHiNla/caddi2018/A/in/sample2.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAi4XuK86xqARjfjyp1bVqfa/caddi2018/A/out/sample2.txt?dl=0"
+  },
+  "sample3.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADVUDQGZpZVGaRDAztBD5I4a/caddi2018/A/in/sample3.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADYGFhCm-uggNu3gGX5mf3ea/caddi2018/A/out/sample3.txt?dl=0"
+  }
+}

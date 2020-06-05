@@ -1,0 +1,170 @@
+{
+  "00_example_01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAPnOiBuiv13aNiNPRn6C1-a/ARC086/D/in/00_example_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB7S7FhWBLoDt7sSK5lZdaua/ARC086/D/out/00_example_01.txt?dl=0"
+  },
+  "00_example_02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADF1Uo2myW6J7kms7AqIl2Ea/ARC086/D/in/00_example_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABolFkOx_6FgKop51SWa2lVa/ARC086/D/out/00_example_02.txt?dl=0"
+  },
+  "00_example_03.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAGlehxHPNf1E97QIc_GfGga/ARC086/D/in/00_example_03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACRAd4PJwZSOjdbXTDi53Noa/ARC086/D/out/00_example_03.txt?dl=0"
+  },
+  "01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAt3l6y57AzthVHQKUOAFiza/ARC086/D/in/01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADl_N8JC1uK8gFhlIvJpuhra/ARC086/D/out/01.txt?dl=0"
+  },
+  "02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAH3OAupSQlMHN514C_ClE7a/ARC086/D/in/02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABGZhjYnK-0-9vFKLMM9uQza/ARC086/D/out/02.txt?dl=0"
+  },
+  "03.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABA_v4XVCUTpLcx64ZB5oNBa/ARC086/D/in/03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAVs9YqZ0tsdiCke3nnUtrWa/ARC086/D/out/03.txt?dl=0"
+  },
+  "04.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADlHmrKG85zmfxcKps66MMka/ARC086/D/in/04.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADF3eIAe0RfnO_n-v2iWq0Qa/ARC086/D/out/04.txt?dl=0"
+  },
+  "05.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABQ2PCkaL14Y-dkmrBf8f1Sa/ARC086/D/in/05.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADI5zBGe9gBqHP_JxksBvSfa/ARC086/D/out/05.txt?dl=0"
+  },
+  "06.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABulF8x3O5T1N6H6G9he67ua/ARC086/D/in/06.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABWDJSjaYN1C34e1SmHzdlDa/ARC086/D/out/06.txt?dl=0"
+  },
+  "07.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD3wq1mZRyseQJ6uCtVFTvOa/ARC086/D/in/07.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAdaa2-kdug4YODBHf0Aqvka/ARC086/D/out/07.txt?dl=0"
+  },
+  "08.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD1_EzKrUZXLcE12WRFfq70a/ARC086/D/in/08.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADeLsATYZt3O12icfWU7a48a/ARC086/D/out/08.txt?dl=0"
+  },
+  "09.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADMpuB18lHhkP85ECw-EJh1a/ARC086/D/in/09.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAfvzNJlpAL9kikp2dnbB1ra/ARC086/D/out/09.txt?dl=0"
+  },
+  "10.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC2ZbbWYgfpOLDTWfcf64e4a/ARC086/D/in/10.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACh3208k-xIgNMGaNIhoZZla/ARC086/D/out/10.txt?dl=0"
+  },
+  "11.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABWLrVH2K1cOrnGcTPFcKsFa/ARC086/D/in/11.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADkZwbdbAgU-3e_L8GUBazGa/ARC086/D/out/11.txt?dl=0"
+  },
+  "12.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADXNYAsO3Az-tD7lTnMofNha/ARC086/D/in/12.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADPGBEe_qGZUFV3GqM_ze_na/ARC086/D/out/12.txt?dl=0"
+  },
+  "13.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAATcx49BvtdkUI6qjB897Uha/ARC086/D/in/13.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAa1Xw2SF6FXS4goZQM4dSIa/ARC086/D/out/13.txt?dl=0"
+  },
+  "14.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB7YKczsTvdWXOTv46mv8gfa/ARC086/D/in/14.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABrpwg1crguqc1uwM53zF5Na/ARC086/D/out/14.txt?dl=0"
+  },
+  "15.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADTcK2vCf5gA3UsG1U726QTa/ARC086/D/in/15.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC0WM_Qq2KgPvKaFX1bwWv8a/ARC086/D/out/15.txt?dl=0"
+  },
+  "16.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABkYod7qXDcWCbbZ1dv_ymta/ARC086/D/in/16.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD9M5kRWlER53soSN4a2nLna/ARC086/D/out/16.txt?dl=0"
+  },
+  "17.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD1U_5dTR6ll1IOeCuVQCGta/ARC086/D/in/17.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC9w0_PtItD1lT4Gn7vhgtna/ARC086/D/out/17.txt?dl=0"
+  },
+  "18.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABl3PsSVTQ154v9azY9HV5Ma/ARC086/D/in/18.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADD3-E0w-y3pKVIMqutA_Bra/ARC086/D/out/18.txt?dl=0"
+  },
+  "19.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC4okoMYTNcZ4kfgoe1sBpJa/ARC086/D/in/19.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAFWYnmFcOltk4uZPoIg1asa/ARC086/D/out/19.txt?dl=0"
+  },
+  "20.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB04_a4DiU1bUXYF8Uk5Aova/ARC086/D/in/20.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABwyitkuwycNz8SbubDVMZTa/ARC086/D/out/20.txt?dl=0"
+  },
+  "21.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA7DimSXNtIm6MOiarE4B39a/ARC086/D/in/21.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADCefGUK0dIj0cC3JdH5tbDa/ARC086/D/out/21.txt?dl=0"
+  },
+  "22.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABA7SInAkNvrnl1C1VFIRlna/ARC086/D/in/22.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAx-qBR3q9qQtQG1MvgYIkia/ARC086/D/out/22.txt?dl=0"
+  },
+  "23.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAKHhjqKcVfg5y54-e4qCU5a/ARC086/D/in/23.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABODxvuWQskUHWTnP0uogHqa/ARC086/D/out/23.txt?dl=0"
+  },
+  "24.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAq2O6m4Upf1NhSaXTim9Raa/ARC086/D/in/24.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADPE3kuHAObSvkppvxLe78xa/ARC086/D/out/24.txt?dl=0"
+  },
+  "25.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACUD3vHyaBk50Hl03kfXEesa/ARC086/D/in/25.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAATRFw5zQSm-faNFxa5vniKa/ARC086/D/out/25.txt?dl=0"
+  },
+  "26.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB--WkI2GqLJy9SLBzcl6JSa/ARC086/D/in/26.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADpkzxt0ITEt9d8Eup409Jna/ARC086/D/out/26.txt?dl=0"
+  },
+  "27.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADVOedEUPW6GydlnAr8oB4Oa/ARC086/D/in/27.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAQc4_mxxcDAwp4eKivTZPGa/ARC086/D/out/27.txt?dl=0"
+  },
+  "28.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAALO8iJ-MdarE84pQ494oGLa/ARC086/D/in/28.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABMLEmRRvZxi1OqulRXjUvTa/ARC086/D/out/28.txt?dl=0"
+  },
+  "29.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADqwscOp-D2hF2qIZOtLA1na/ARC086/D/in/29.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC9d_289_S9GbiMvQU59EvSa/ARC086/D/out/29.txt?dl=0"
+  },
+  "30.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC1213oQFPSksGjEhSPZk_ja/ARC086/D/in/30.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADGtZcKHMUsjnzigE7LtrJga/ARC086/D/out/30.txt?dl=0"
+  },
+  "31.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA3jjfn4h4jzLBjdDXFwaEQa/ARC086/D/in/31.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADFgrZXDem98533sKe2qtlEa/ARC086/D/out/31.txt?dl=0"
+  },
+  "32.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC9oejXDI3Hl7F-D-KyjviFa/ARC086/D/in/32.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACSaofhhneA6lhgh6Zsy0Sva/ARC086/D/out/32.txt?dl=0"
+  },
+  "33.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACgTCLbmKmwJqeHh54SMG9Ga/ARC086/D/in/33.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACHVjMPCIL2nf_LwIz1a4yTa/ARC086/D/out/33.txt?dl=0"
+  },
+  "34.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAPnbT9Xe4XFPMcOhgtdHj4a/ARC086/D/in/34.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADFnYClj6-Xkj1rIusJeIEYa/ARC086/D/out/34.txt?dl=0"
+  },
+  "35.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADdKAwx1z4K7Fg4DkrLzKCPa/ARC086/D/in/35.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABBybEHzFh7n29qxUZSZR7ha/ARC086/D/out/35.txt?dl=0"
+  },
+  "36.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACq8GZHPOen55pyA2jFhi-Oa/ARC086/D/in/36.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD3Zpv7KH-b4W_PNO86XPQFa/ARC086/D/out/36.txt?dl=0"
+  },
+  "37.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACZJZo_9rBp7owITCdrP5Y0a/ARC086/D/in/37.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAyvS-G6sV7RrAbXUgNmXC0a/ARC086/D/out/37.txt?dl=0"
+  },
+  "38.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACIqG3e2Pn-oPM3YPPjZO1Qa/ARC086/D/in/38.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD7NvPx70c8HUbEDKjs31Hna/ARC086/D/out/38.txt?dl=0"
+  },
+  "39.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACCy0zNjNcOVjUQzZjsVUIra/ARC086/D/in/39.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABbRj9fsi2YDKL7sDpQClGka/ARC086/D/out/39.txt?dl=0"
+  }
+}

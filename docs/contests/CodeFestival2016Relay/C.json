@@ -1,0 +1,86 @@
+{
+  "sample_01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC8k4Df6-zTi444vuVyAAWHa/CodeFestival2016Relay/C/in/sample_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC3HnhNlX5swpWKLRUaLeKUa/CodeFestival2016Relay/C/out/sample_01.txt?dl=0"
+  },
+  "sample_02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAClsfAlXNhmsSyoJKFqZ-40a/CodeFestival2016Relay/C/in/sample_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADmPbpJg_96BnE4xcC165Yya/CodeFestival2016Relay/C/out/sample_02.txt?dl=0"
+  },
+  "subtask1_01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACa96LulUf3ym4m3zwL_gPya/CodeFestival2016Relay/C/in/subtask1_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA6BAK5mHiiG88aaWkyTYJXa/CodeFestival2016Relay/C/out/subtask1_01.txt?dl=0"
+  },
+  "subtask1_02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACiryhS2VgCyUMFpLZI7OB5a/CodeFestival2016Relay/C/in/subtask1_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABLVGmt_RcANOb_p5FBDgVfa/CodeFestival2016Relay/C/out/subtask1_02.txt?dl=0"
+  },
+  "subtask1_03.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB5bN4iYRPXqyCj_bE4pLW2a/CodeFestival2016Relay/C/in/subtask1_03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACQ5-rCtBw-llnqSshhOUTqa/CodeFestival2016Relay/C/out/subtask1_03.txt?dl=0"
+  },
+  "subtask1_04.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABMRd6RYuwKZvfbTvc5MP6Qa/CodeFestival2016Relay/C/in/subtask1_04.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADDMsS-vSxVzlD2cQIsEAI1a/CodeFestival2016Relay/C/out/subtask1_04.txt?dl=0"
+  },
+  "subtask1_05.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAuaiY0dyi2uCHKQwMESSyba/CodeFestival2016Relay/C/in/subtask1_05.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADztPvpRRboB_pncf3XhWDfa/CodeFestival2016Relay/C/out/subtask1_05.txt?dl=0"
+  },
+  "subtask1_06.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACzKkmn_1Pa3FPyzJDNguSya/CodeFestival2016Relay/C/in/subtask1_06.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAIelZFN8IlN1YEP0dA-xlca/CodeFestival2016Relay/C/out/subtask1_06.txt?dl=0"
+  },
+  "subtask1_07.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABBk7iT4cY_4GAofH81Zo9Ha/CodeFestival2016Relay/C/in/subtask1_07.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADGlavOzSqj2Iqoqlq5EgjEa/CodeFestival2016Relay/C/out/subtask1_07.txt?dl=0"
+  },
+  "subtask1_08.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAc7xMdQevWL3LKTo9H7cYJa/CodeFestival2016Relay/C/in/subtask1_08.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACkWO2Fmzx_OnwRRs06Z4X-a/CodeFestival2016Relay/C/out/subtask1_08.txt?dl=0"
+  },
+  "subtask1_09.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAV1RMt6MBAizFxXfSaBiTqa/CodeFestival2016Relay/C/in/subtask1_09.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABiYZeuDbOqmFfIy5-Swe_na/CodeFestival2016Relay/C/out/subtask1_09.txt?dl=0"
+  },
+  "subtask1_10.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACgLh0_pBs-WnApBznLV9pja/CodeFestival2016Relay/C/in/subtask1_10.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABvTk0wej7gzOq0gmNt7m37a/CodeFestival2016Relay/C/out/subtask1_10.txt?dl=0"
+  },
+  "subtask1_11.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA1j50a9q3vhETCyR4ig5yoa/CodeFestival2016Relay/C/in/subtask1_11.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABcgQvftN6sKprIuLsF_1MYa/CodeFestival2016Relay/C/out/subtask1_11.txt?dl=0"
+  },
+  "subtask1_12.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC-MkvgQP_tKj2VavqdHZf_a/CodeFestival2016Relay/C/in/subtask1_12.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADLVrPM_uVqAJ7hEp-w8tj_a/CodeFestival2016Relay/C/out/subtask1_12.txt?dl=0"
+  },
+  "subtask1_13.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADJe3gwohStiwzVcUxld9yea/CodeFestival2016Relay/C/in/subtask1_13.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACBUWFMmQS-P98T9UTWqH7Ra/CodeFestival2016Relay/C/out/subtask1_13.txt?dl=0"
+  },
+  "subtask1_14.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAmlhFz9_Jv2Z_LX0dET_U2a/CodeFestival2016Relay/C/in/subtask1_14.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABX2lN2BkBcFPvCmfImh5jLa/CodeFestival2016Relay/C/out/subtask1_14.txt?dl=0"
+  },
+  "subtask1_15.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAClX-_FkiyBNC5MCxJZktSIa/CodeFestival2016Relay/C/in/subtask1_15.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACmyvHlUGh4HujTWQnYp6GLa/CodeFestival2016Relay/C/out/subtask1_15.txt?dl=0"
+  },
+  "subtask1_16.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADBxwO5qa2LVXnwVcOW5Bwna/CodeFestival2016Relay/C/in/subtask1_16.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABJI4gxtueibtNOfkIL1K8Wa/CodeFestival2016Relay/C/out/subtask1_16.txt?dl=0"
+  },
+  "subtask1_17.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADTWBHltHGbiMiNyvTqrtGqa/CodeFestival2016Relay/C/in/subtask1_17.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB0MbwLUkHTC9a94yO_wd-na/CodeFestival2016Relay/C/out/subtask1_17.txt?dl=0"
+  },
+  "subtask1_18.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA2a233roR5xjNSmLxdkHMQa/CodeFestival2016Relay/C/in/subtask1_18.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA1Tf-q4gkJirCqoRtxdTDxa/CodeFestival2016Relay/C/out/subtask1_18.txt?dl=0"
+  },
+  "subtask1_19.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACdDU5-reARQNdY7aAJ0ir9a/CodeFestival2016Relay/C/in/subtask1_19.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABCyuFNmPRSGH-6qpzvVcFza/CodeFestival2016Relay/C/out/subtask1_19.txt?dl=0"
+  }
+}

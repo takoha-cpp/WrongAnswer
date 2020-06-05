@@ -1,0 +1,66 @@
+{
+  "00-sample-01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA5k4eo-Xp3sZSZ5L_blqBba/ABC142/C/in/00-sample-01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAyQ6Gm_Ok2X2-lHzmn0jO3a/ABC142/C/out/00-sample-01.txt?dl=0"
+  },
+  "00-sample-02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADDzjz6j9bTMIcMdo0XGj17a/ABC142/C/in/00-sample-02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACGev0ZstdOgLbSrZsxdWHda/ABC142/C/out/00-sample-02.txt?dl=0"
+  },
+  "00-sample-03.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACx3nXO0mmI83WtCxPG4Hs-a/ABC142/C/in/00-sample-03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAfs2_SgTCBkRLivdr7HVjLa/ABC142/C/out/00-sample-03.txt?dl=0"
+  },
+  "01-small-01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADjdRM8O745Y-OPnX5YlQ6ia/ABC142/C/in/01-small-01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB4cjk_xfX0V8ZJOHxvaVG1a/ABC142/C/out/01-small-01.txt?dl=0"
+  },
+  "01-small-02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADaSyntgbqhxlTb3vGDocx-a/ABC142/C/in/01-small-02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACtIMmmHWQnCvi-IKeQv8fua/ABC142/C/out/01-small-02.txt?dl=0"
+  },
+  "01-small-03.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAWycA_94ek1vH_N-sg3kRKa/ABC142/C/in/01-small-03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAmd4rj50bsShwNhiXTmw20a/ABC142/C/out/01-small-03.txt?dl=0"
+  },
+  "01-small-04.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABivhNUuOKrjPQqxxp3h9e_a/ABC142/C/in/01-small-04.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAEJ2xWoBiLZKaFqFm9qMXBa/ABC142/C/out/01-small-04.txt?dl=0"
+  },
+  "01-small-05.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAfL9T1sPJsOjeUwXaPf8t3a/ABC142/C/in/01-small-05.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADVHT2ZKFdK_nKK7Ml5Pv1Ja/ABC142/C/out/01-small-05.txt?dl=0"
+  },
+  "02-large-01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACbIHtLCXqxfOowzK5sbEvHa/ABC142/C/in/02-large-01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADrBczjZBghzIpeOS94gJpLa/ABC142/C/out/02-large-01.txt?dl=0"
+  },
+  "02-large-02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABSzxoYKobRhAvmpvSao1pua/ABC142/C/in/02-large-02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB9JM7MNMrsZSj5WRzjUnTaa/ABC142/C/out/02-large-02.txt?dl=0"
+  },
+  "02-large-03.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA1nAz3ldPcFaZj6OiINYY7a/ABC142/C/in/02-large-03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABYd50a6sM9NB2R1frJ519xa/ABC142/C/out/02-large-03.txt?dl=0"
+  },
+  "02-large-04.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADjeNinpVlRqHgMDi0l6T4Oa/ABC142/C/in/02-large-04.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADRg3vblllm7mTk4TnaBD-Ca/ABC142/C/out/02-large-04.txt?dl=0"
+  },
+  "02-large-05.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB4sinaHJ3XIQrGHARgl9d9a/ABC142/C/in/02-large-05.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABHMQI1LKW4xJbGxb1-FE4Na/ABC142/C/out/02-large-05.txt?dl=0"
+  },
+  "03-max-01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACGNo-hfkq4rTl59vAKc6F6a/ABC142/C/in/03-max-01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACjbsKkQuss8FxojQxJXrpTa/ABC142/C/out/03-max-01.txt?dl=0"
+  },
+  "03-max-02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACoKBypcgA0AvWRMspWuaSRa/ABC142/C/in/03-max-02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAegxpvifmXaSkfqmbTSO09a/ABC142/C/out/03-max-02.txt?dl=0"
+  },
+  "10-handmade-01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACgE2mXafTbGjyEPXWQs2_ta/ABC142/C/in/10-handmade-01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABI4TSAhRI9y7BFCbp5zaSpa/ABC142/C/out/10-handmade-01.txt?dl=0"
+  }
+}

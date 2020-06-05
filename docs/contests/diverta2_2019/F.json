@@ -1,0 +1,38 @@
+{
+  "in1.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABDPVzHma00YE7q4F_k5vVca/diverta2_2019/F/in/in1.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABNzyy4cXrXokwui0JXL5LPa/diverta2_2019/F/out/in1.txt?dl=0"
+  },
+  "in2.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACVN3Pb2mneMAIcZtrjEN4Ea/diverta2_2019/F/in/in2.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADrCrxyQ0KO8ZZcPA6UmSbaa/diverta2_2019/F/out/in2.txt?dl=0"
+  },
+  "in3.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAcFzPWcGvIMafwcZ49-Rl2a/diverta2_2019/F/in/in3.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD5AoO0sVh2r6s8FKho5yXna/diverta2_2019/F/out/in3.txt?dl=0"
+  },
+  "in4.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADBcut7n0MSIakUKjCQVHrHa/diverta2_2019/F/in/in4.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACNTsTInWtiABuR2jhP1f5aa/diverta2_2019/F/out/in4.txt?dl=0"
+  },
+  "in5.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABPj0I3HlnAnYO4sqnodOX2a/diverta2_2019/F/in/in5.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACmsLdeGX-fX36nY2RtEEtma/diverta2_2019/F/out/in5.txt?dl=0"
+  },
+  "in6.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABMD0ddKeJEAfajgLNVqx54a/diverta2_2019/F/in/in6.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACfddWe_KphYWWR5PBExtVXa/diverta2_2019/F/out/in6.txt?dl=0"
+  },
+  "in7.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAhcrGQceJKNaUpYbY-8eZga/diverta2_2019/F/in/in7.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADwp8GnaYUxEKRyuxGQ3-H4a/diverta2_2019/F/out/in7.txt?dl=0"
+  },
+  "sample_01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABuo-VlRyhtvRSzLEdrN06ga/diverta2_2019/F/in/sample_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADqdgpSWgUti4G6kH2Wq3Cha/diverta2_2019/F/out/sample_01.txt?dl=0"
+  },
+  "sample_02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA81YZ2n2rdpZ5lPYy771zEa/diverta2_2019/F/in/sample_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACAN2eAyBUj2lR2JXjuCbAMa/diverta2_2019/F/out/sample_02.txt?dl=0"
+  }
+}

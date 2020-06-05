@@ -1,0 +1,114 @@
+{
+  "00_example_01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACoNpWvaK_C-AlQYUn1Mlvua/CodeFestival2017Tournament/A/in/00_example_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAtHgkClcnLN9v-AsuyEC5Sa/CodeFestival2017Tournament/A/out/00_example_01.txt?dl=0"
+  },
+  "00_example_02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACtfMW3Fsg_LCoKNwl59tW0a/CodeFestival2017Tournament/A/in/00_example_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAALT_b5QrkSCnisXAwCwtWxa/CodeFestival2017Tournament/A/out/00_example_02.txt?dl=0"
+  },
+  "00_example_03.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB0axG_dKby36Y-Vmx7yYXea/CodeFestival2017Tournament/A/in/00_example_03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACLtkWZjG9gnhAf50gHl3Kya/CodeFestival2017Tournament/A/out/00_example_03.txt?dl=0"
+  },
+  "00_example_04.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADJudSJttuaHb6pADYMgz7xa/CodeFestival2017Tournament/A/in/00_example_04.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAALw2wp5sqoLbUV3I86VMU0a/CodeFestival2017Tournament/A/out/00_example_04.txt?dl=0"
+  },
+  "s1_01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB6RlOfojOuwpoBGPf4iRMua/CodeFestival2017Tournament/A/in/s1_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAjO_n3IfEo15KaykubiyAha/CodeFestival2017Tournament/A/out/s1_01.txt?dl=0"
+  },
+  "s1_02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC1qbXYBu3NVBUb0RwEp60ta/CodeFestival2017Tournament/A/in/s1_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADJs6n_hUT_l-VGqeJBF5Zna/CodeFestival2017Tournament/A/out/s1_02.txt?dl=0"
+  },
+  "s1_03.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD4qmw0H9odrjOKVqj0_K-4a/CodeFestival2017Tournament/A/in/s1_03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABf6B95romV8a-qASW57DHta/CodeFestival2017Tournament/A/out/s1_03.txt?dl=0"
+  },
+  "s1_04.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADtvjeYayKmR7fpjUbEtk7ca/CodeFestival2017Tournament/A/in/s1_04.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADlL_lvYCuiO1A1vX9UIy9Ua/CodeFestival2017Tournament/A/out/s1_04.txt?dl=0"
+  },
+  "s1_05.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAeIS9_YF2GK_ETanW1L77wa/CodeFestival2017Tournament/A/in/s1_05.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAATBnLyaADi7w4eUd5Mdx1Ba/CodeFestival2017Tournament/A/out/s1_05.txt?dl=0"
+  },
+  "s1_06.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB72n8piU_TssrON8UH05vba/CodeFestival2017Tournament/A/in/s1_06.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABkbCMPAapjT7HPwi1jaa6Ka/CodeFestival2017Tournament/A/out/s1_06.txt?dl=0"
+  },
+  "s2_07.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAANbJRRdVUwS-NW1KZODD7ja/CodeFestival2017Tournament/A/in/s2_07.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAoRJ08jbWbUNiGyKSATp8Ra/CodeFestival2017Tournament/A/out/s2_07.txt?dl=0"
+  },
+  "s2_08.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADODryj91L8Tk9dKLvQGvWca/CodeFestival2017Tournament/A/in/s2_08.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAChzaANDuae1WRQKD4SdLYca/CodeFestival2017Tournament/A/out/s2_08.txt?dl=0"
+  },
+  "s2_09.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAU0y7B0amAByuYh5JT46sFa/CodeFestival2017Tournament/A/in/s2_09.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABhI2K-gPTX2lYQzg6PNBmya/CodeFestival2017Tournament/A/out/s2_09.txt?dl=0"
+  },
+  "s2_10.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC7QEeQfoUi9hfPHiiFnKwYa/CodeFestival2017Tournament/A/in/s2_10.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACuAaCzixV9jw8-NF4FGNmCa/CodeFestival2017Tournament/A/out/s2_10.txt?dl=0"
+  },
+  "s2_11.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB2DEoRz7cYiKjT4YGjfMNNa/CodeFestival2017Tournament/A/in/s2_11.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADAW1P_ypfEL4NN6xvi7repa/CodeFestival2017Tournament/A/out/s2_11.txt?dl=0"
+  },
+  "s2_12.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACYZMffsRwqpGmVdYYnqmsqa/CodeFestival2017Tournament/A/in/s2_12.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADQSW1EEpnQg9b3lRdJxhtTa/CodeFestival2017Tournament/A/out/s2_12.txt?dl=0"
+  },
+  "s3_13.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACXHaHbzgUoja_2b5QfWrW3a/CodeFestival2017Tournament/A/in/s3_13.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADdCXHaLSAMBfPAQvtStt2Ga/CodeFestival2017Tournament/A/out/s3_13.txt?dl=0"
+  },
+  "s3_14.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADRf2J4B2LlSqvHslVLlbi2a/CodeFestival2017Tournament/A/in/s3_14.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD4F24-Zq31MXnclvL-kfuNa/CodeFestival2017Tournament/A/out/s3_14.txt?dl=0"
+  },
+  "s3_15.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACv8Ues4xIwklGmannAQyA_a/CodeFestival2017Tournament/A/in/s3_15.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABZ4V03gdF7jfQhn7KtwiQma/CodeFestival2017Tournament/A/out/s3_15.txt?dl=0"
+  },
+  "s3_16.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD7BtXRXg-8NoZDkpoicQm4a/CodeFestival2017Tournament/A/in/s3_16.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABOgjSSaimad7jQmv-ADpDca/CodeFestival2017Tournament/A/out/s3_16.txt?dl=0"
+  },
+  "s3_17.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACV8cuD1Pd0R9f3ehdSZFzia/CodeFestival2017Tournament/A/in/s3_17.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABkiI55Koh-WZW0o3klFzCka/CodeFestival2017Tournament/A/out/s3_17.txt?dl=0"
+  },
+  "s3_18.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAABAH6PU98VJ07fOM4gsoIAa/CodeFestival2017Tournament/A/in/s3_18.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADCIwsR1HrAC6xwjPhb4zrBa/CodeFestival2017Tournament/A/out/s3_18.txt?dl=0"
+  },
+  "s4_19.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD_gqJSlJ063EtU8dkywBRaa/CodeFestival2017Tournament/A/in/s4_19.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAOOcyZLe-FuDSeesPNDPcea/CodeFestival2017Tournament/A/out/s4_19.txt?dl=0"
+  },
+  "s4_20.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABgj2Bqekdb8knq3XHDet1ya/CodeFestival2017Tournament/A/in/s4_20.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADIqcn83pQY4ggbp8RIAfJba/CodeFestival2017Tournament/A/out/s4_20.txt?dl=0"
+  },
+  "s4_21.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAJcDQ3QkToE7DxIGDUE5LTa/CodeFestival2017Tournament/A/in/s4_21.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADX3pC1L9-xDsmeT0Pz-Di2a/CodeFestival2017Tournament/A/out/s4_21.txt?dl=0"
+  },
+  "s4_22.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABeNWjYu18HszxFohARzIKQa/CodeFestival2017Tournament/A/in/s4_22.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAyJv5HAMXenpA0ZfKgUlDua/CodeFestival2017Tournament/A/out/s4_22.txt?dl=0"
+  },
+  "s4_23.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADj8J6fXs5bW6j2uyZdV0_ba/CodeFestival2017Tournament/A/in/s4_23.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD3x5egUkFLUPWKRENlA8BZa/CodeFestival2017Tournament/A/out/s4_23.txt?dl=0"
+  },
+  "s4_24.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABsMsMuBWuiVsaEqSYfNK4Ia/CodeFestival2017Tournament/A/in/s4_24.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABw5ZKaxPHUDoyoZEBfiVHia/CodeFestival2017Tournament/A/out/s4_24.txt?dl=0"
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "sample_01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAGHUh-VgJhhbZYEDy7aRcpa/CodeFestival2016Relay/I/in/sample_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC9TW6uJrjcpZ4ly3SpmJtga/CodeFestival2016Relay/I/out/sample_01.txt?dl=0"
+  },
+  "sample_02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADPTyiF10XVzVrVApCWr4Pka/CodeFestival2016Relay/I/in/sample_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAASBmwLEDEFHu7yiBtpDFPya/CodeFestival2016Relay/I/out/sample_02.txt?dl=0"
+  },
+  "subtask1_01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADUChkL1_1nCz0qFZkOjilTa/CodeFestival2016Relay/I/in/subtask1_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAcFrVpwKtDUfpIvGW4NRN1a/CodeFestival2016Relay/I/out/subtask1_01.txt?dl=0"
+  },
+  "subtask1_02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADFioEq1mI8ov1CvDxlgotca/CodeFestival2016Relay/I/in/subtask1_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABwRPS3_K5iMa0tZ5yBHSyUa/CodeFestival2016Relay/I/out/subtask1_02.txt?dl=0"
+  },
+  "subtask1_03.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAPo1HBJoTWUj5Xxx7FgHL9a/CodeFestival2016Relay/I/in/subtask1_03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABRaHG0ppSmoXbh82VKKG5Va/CodeFestival2016Relay/I/out/subtask1_03.txt?dl=0"
+  },
+  "subtask1_04.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADJCkLHJmXmwS778lBoNA2Na/CodeFestival2016Relay/I/in/subtask1_04.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAUR7burAyAdE6BnQpShI6Ta/CodeFestival2016Relay/I/out/subtask1_04.txt?dl=0"
+  },
+  "subtask1_05.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABxgWvtJdLzacoFfr65SVKua/CodeFestival2016Relay/I/in/subtask1_05.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACVlvB63Jq9Ja0JA4IEvKYoa/CodeFestival2016Relay/I/out/subtask1_05.txt?dl=0"
+  },
+  "subtask1_06.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABqTt5Oe6k5zw5AhrgaUrVwa/CodeFestival2016Relay/I/in/subtask1_06.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAJ5stSgQZRPaLeC5Qh9kMsa/CodeFestival2016Relay/I/out/subtask1_06.txt?dl=0"
+  },
+  "subtask1_07.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADmT1miP6E13S05OFAKgy0wa/CodeFestival2016Relay/I/in/subtask1_07.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADUq5Sn0OHH6mYPDptsxa1Ra/CodeFestival2016Relay/I/out/subtask1_07.txt?dl=0"
+  },
+  "subtask1_08.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABQYEqEnoF33_OpArMa5Qeha/CodeFestival2016Relay/I/in/subtask1_08.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAzOMeGKt7Jv1xDk1PsgssCa/CodeFestival2016Relay/I/out/subtask1_08.txt?dl=0"
+  },
+  "subtask1_09.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADEhd2lEfPGrEdXyjftMYyZa/CodeFestival2016Relay/I/in/subtask1_09.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADELzGls8Z6GFTAnvovnGLTa/CodeFestival2016Relay/I/out/subtask1_09.txt?dl=0"
+  },
+  "subtask1_10.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAoRzMoiLbbuWGt0Mq_C64Aa/CodeFestival2016Relay/I/in/subtask1_10.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADH_YbTuVd6j5UtMDSm0fVwa/CodeFestival2016Relay/I/out/subtask1_10.txt?dl=0"
+  },
+  "subtask1_11.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAABoa7tAmC0LUcv8kayEqa0a/CodeFestival2016Relay/I/in/subtask1_11.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB-oiDul7LjcIpCFJerNcKwa/CodeFestival2016Relay/I/out/subtask1_11.txt?dl=0"
+  },
+  "subtask1_12.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAzlYcPe8GvOzPJc_7keC2ha/CodeFestival2016Relay/I/in/subtask1_12.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADo61J1ge0mNfxrDFbYVQc5a/CodeFestival2016Relay/I/out/subtask1_12.txt?dl=0"
+  },
+  "subtask1_13.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD015GT_zMrXHri0tGv3Guka/CodeFestival2016Relay/I/in/subtask1_13.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABS_vTKCsVydiacsoywVBFla/CodeFestival2016Relay/I/out/subtask1_13.txt?dl=0"
+  },
+  "subtask1_14.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADAa5l8-FgS5QAp3cRu-tE3a/CodeFestival2016Relay/I/in/subtask1_14.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB8KT7b2-Pcwv1NZ-YKf7eRa/CodeFestival2016Relay/I/out/subtask1_14.txt?dl=0"
+  },
+  "subtask1_15.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB6Aavt4XOsDz9A-ee6LRtka/CodeFestival2016Relay/I/in/subtask1_15.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAAPf3aCy4wDGGxXgFVxWEGa/CodeFestival2016Relay/I/out/subtask1_15.txt?dl=0"
+  },
+  "subtask1_16.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADlEaQHEtdPtfWKhd2JuOmCa/CodeFestival2016Relay/I/in/subtask1_16.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB03QJQ2RTFtv8W_itpTO8ca/CodeFestival2016Relay/I/out/subtask1_16.txt?dl=0"
+  },
+  "subtask1_17.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAXS3cRHA40b5GioNhn3R5Wa/CodeFestival2016Relay/I/in/subtask1_17.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAWZev_16jEgUNIPAvfxLxFa/CodeFestival2016Relay/I/out/subtask1_17.txt?dl=0"
+  },
+  "subtask1_18.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACEJy2j99ZzGYL_aOwjaAbLa/CodeFestival2016Relay/I/in/subtask1_18.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABOL2tO1dGBnYVTwdzIdmqYa/CodeFestival2016Relay/I/out/subtask1_18.txt?dl=0"
+  },
+  "subtask1_19.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAClor_EEB_dIWwCIIQ668iya/CodeFestival2016Relay/I/in/subtask1_19.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAArs-6k8IsD5DB1ECnGaG2ga/CodeFestival2016Relay/I/out/subtask1_19.txt?dl=0"
+  },
+  "subtask1_20.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAfKqSPpmnfgwMgTMd3gRTwa/CodeFestival2016Relay/I/in/subtask1_20.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAZNlD6OSHfrevIoxw3Ysq0a/CodeFestival2016Relay/I/out/subtask1_20.txt?dl=0"
+  },
+  "subtask1_21.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADRxU29SUvPjykwORd9oqbda/CodeFestival2016Relay/I/in/subtask1_21.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAATRdzL2JZ5VkJQEWK5lLrCa/CodeFestival2016Relay/I/out/subtask1_21.txt?dl=0"
+  },
+  "subtask1_22.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACthImoVpxy3NSImYi8cX19a/CodeFestival2016Relay/I/in/subtask1_22.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAWBUZRkahI_9cuacH04KOPa/CodeFestival2016Relay/I/out/subtask1_22.txt?dl=0"
+  },
+  "subtask1_23.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADTSmnX2OZ5OudWpeMxfGf2a/CodeFestival2016Relay/I/in/subtask1_23.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD1HV93681kzZbSehsZkkQAa/CodeFestival2016Relay/I/out/subtask1_23.txt?dl=0"
+  },
+  "subtask1_24.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADfbTzQpJIh9uZ-1AsVOrg5a/CodeFestival2016Relay/I/in/subtask1_24.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD4abJpHHEk5zI2Y4H93B59a/CodeFestival2016Relay/I/out/subtask1_24.txt?dl=0"
+  },
+  "subtask1_25.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADlYi6Zr1IgSW0-V91Pva-ua/CodeFestival2016Relay/I/in/subtask1_25.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB5qksAp4henrs_PnVVuuT9a/CodeFestival2016Relay/I/out/subtask1_25.txt?dl=0"
+  },
+  "subtask1_26.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACDt5_zqCAXov0AMsS-AdkCa/CodeFestival2016Relay/I/in/subtask1_26.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAa0a7b4OGTHbxG99zxRGv0a/CodeFestival2016Relay/I/out/subtask1_26.txt?dl=0"
+  },
+  "subtask1_27.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB6x4J1CUEXvz42aXUBvF-Ya/CodeFestival2016Relay/I/in/subtask1_27.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABObC1-WgQ7pY7Z7JG6fbpja/CodeFestival2016Relay/I/out/subtask1_27.txt?dl=0"
+  },
+  "subtask1_28.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAQs6-9R1wMcmRDZSRH1VDVa/CodeFestival2016Relay/I/in/subtask1_28.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC2yJd0n8Hs_NvnjZ8h4p9ta/CodeFestival2016Relay/I/out/subtask1_28.txt?dl=0"
+  },
+  "subtask1_29.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABF5USxYDdgoAdHvM6Fwa-Ya/CodeFestival2016Relay/I/in/subtask1_29.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACRiTo5AVPvqANakH1Y4hzfa/CodeFestival2016Relay/I/out/subtask1_29.txt?dl=0"
+  },
+  "subtask1_30.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACn0B2be73GiFFEN18mldQpa/CodeFestival2016Relay/I/in/subtask1_30.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA1_wEGb4nIcz24ErxmtYAha/CodeFestival2016Relay/I/out/subtask1_30.txt?dl=0"
+  },
+  "subtask1_31.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC6IdHmv7inTxNpA7ZcIBf9a/CodeFestival2016Relay/I/in/subtask1_31.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABEfkUJiTflLmYrijK44PQTa/CodeFestival2016Relay/I/out/subtask1_31.txt?dl=0"
+  },
+  "subtask1_32.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACBU5VXM4n8_MCmQ-vzo9JCa/CodeFestival2016Relay/I/in/subtask1_32.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABi4yM9zlfX3Uuq0TuiyG8Ea/CodeFestival2016Relay/I/out/subtask1_32.txt?dl=0"
+  },
+  "subtask1_33.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD0r0gOACJ4Ko3KRz07wMYVa/CodeFestival2016Relay/I/in/subtask1_33.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABMw2GTW708taxcwIh2xqYfa/CodeFestival2016Relay/I/out/subtask1_33.txt?dl=0"
+  },
+  "subtask1_34.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC8Pg0SghtjmCKEwbMQ9wNaa/CodeFestival2016Relay/I/in/subtask1_34.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABEFVMvczGTkUePX2A-0waDa/CodeFestival2016Relay/I/out/subtask1_34.txt?dl=0"
+  },
+  "subtask1_35.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABEz2AS-hln7e6QLjesFMZha/CodeFestival2016Relay/I/in/subtask1_35.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACglDdP_YveYUD9D3sXUn0xa/CodeFestival2016Relay/I/out/subtask1_35.txt?dl=0"
+  },
+  "subtask1_36.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB0pfcAkcNne2NOnufgf0O1a/CodeFestival2016Relay/I/in/subtask1_36.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABg8eQM2qQtzpaikZGidlKYa/CodeFestival2016Relay/I/out/subtask1_36.txt?dl=0"
+  },
+  "subtask1_37.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAE_rTvzQLWXHhdrO6GzYT1a/CodeFestival2016Relay/I/in/subtask1_37.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAkqW-B73MHYLsoAOaKSSFTa/CodeFestival2016Relay/I/out/subtask1_37.txt?dl=0"
+  },
+  "subtask1_38.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACieq2fRUsbZoLCPFql9pqWa/CodeFestival2016Relay/I/in/subtask1_38.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADJjpYHbcaUbQCpLElCZzjJa/CodeFestival2016Relay/I/out/subtask1_38.txt?dl=0"
+  },
+  "subtask1_39.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADSLzTKJvMJYOvm-7vIV2zka/CodeFestival2016Relay/I/in/subtask1_39.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA4V6-6kOJUTLqIkWpI3SxIa/CodeFestival2016Relay/I/out/subtask1_39.txt?dl=0"
+  },
+  "subtask1_40.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADH59Gq4PfJEItd1N_zgY-Aa/CodeFestival2016Relay/I/in/subtask1_40.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACn7vIv6Lg6SqaUTCqvKe7ya/CodeFestival2016Relay/I/out/subtask1_40.txt?dl=0"
+  },
+  "subtask1_41.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADUJ2YpkvQTE2RKdOgMwu5ua/CodeFestival2016Relay/I/in/subtask1_41.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACB78QSAkPNRj9Fc_R6OPXVa/CodeFestival2016Relay/I/out/subtask1_41.txt?dl=0"
+  },
+  "subtask1_42.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADvkr9D3k9YKAJqHmJw2vhva/CodeFestival2016Relay/I/in/subtask1_42.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABTQD1rzCZ2Cw9s5lESmGDfa/CodeFestival2016Relay/I/out/subtask1_42.txt?dl=0"
+  },
+  "subtask1_43.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC4NYMSG1c0A-k7hZrmtKmKa/CodeFestival2016Relay/I/in/subtask1_43.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABP8B9pnT3noss-fB2I8MLXa/CodeFestival2016Relay/I/out/subtask1_43.txt?dl=0"
+  },
+  "subtask1_44.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABAhx_nA0gp3iQF818rJe-na/CodeFestival2016Relay/I/in/subtask1_44.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABaweBQBVYX96qwR-5xAfvza/CodeFestival2016Relay/I/out/subtask1_44.txt?dl=0"
+  },
+  "subtask1_45.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADrt-9csO0cQiU5M_tzxPhja/CodeFestival2016Relay/I/in/subtask1_45.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD5ge0E2N7HEaGqOC4E6Op9a/CodeFestival2016Relay/I/out/subtask1_45.txt?dl=0"
+  },
+  "subtask1_46.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAogQbkcVb0RvOVkP1YpYHga/CodeFestival2016Relay/I/in/subtask1_46.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB0C-1_GMWWaUkcauxaVMJma/CodeFestival2016Relay/I/out/subtask1_46.txt?dl=0"
+  },
+  "subtask1_47.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAylLpfDYB4UNeGjX4sdUjma/CodeFestival2016Relay/I/in/subtask1_47.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADDU9TvO4sGradck2GKxemya/CodeFestival2016Relay/I/out/subtask1_47.txt?dl=0"
+  },
+  "subtask1_48.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAmNSg5PW6Ze1nvKGny1Z6na/CodeFestival2016Relay/I/in/subtask1_48.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAc8gXgbeEyOW48xifkID1Wa/CodeFestival2016Relay/I/out/subtask1_48.txt?dl=0"
+  },
+  "subtask1_49.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD5FML_DvsaQDmo460cXq7Ma/CodeFestival2016Relay/I/in/subtask1_49.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA7YEREh2UtfdVLrPuFPeTya/CodeFestival2016Relay/I/out/subtask1_49.txt?dl=0"
+  },
+  "subtask1_50.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADysxs1xGp6QpOP7zIALa7ia/CodeFestival2016Relay/I/in/subtask1_50.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACYO-ZqFVDYOSmx8m5FT4YGa/CodeFestival2016Relay/I/out/subtask1_50.txt?dl=0"
+  },
+  "subtask1_51.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABFk9zOMwle_4Q9rh9AvBsJa/CodeFestival2016Relay/I/in/subtask1_51.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAmSPFjufI7rSoflFjH9O4da/CodeFestival2016Relay/I/out/subtask1_51.txt?dl=0"
+  },
+  "subtask1_52.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB6SS64O9oyd_w-sS5QqjvMa/CodeFestival2016Relay/I/in/subtask1_52.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD2k07mFbYt665fNyAC6lJWa/CodeFestival2016Relay/I/out/subtask1_52.txt?dl=0"
+  },
+  "subtask1_53.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC3pctwm-gLD4Rf6kLVUl-Ca/CodeFestival2016Relay/I/in/subtask1_53.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACTRUKU4aNdoiZ3H2F54E8Wa/CodeFestival2016Relay/I/out/subtask1_53.txt?dl=0"
+  },
+  "subtask1_54.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA2ydROX5a6lmlQylss0E5ia/CodeFestival2016Relay/I/in/subtask1_54.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACHOobIfkqjPQr0CupvEJXSa/CodeFestival2016Relay/I/out/subtask1_54.txt?dl=0"
+  },
+  "subtask1_55.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADXNV5j9JRvxWdZTxhEG4Lua/CodeFestival2016Relay/I/in/subtask1_55.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADtHMf9eHOKHTSgleqaXeU_a/CodeFestival2016Relay/I/out/subtask1_55.txt?dl=0"
+  },
+  "subtask1_56.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACwYN6bPnzKc6q3csAzFwGua/CodeFestival2016Relay/I/in/subtask1_56.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACiiH6E83o-_gbvk-LkyAcJa/CodeFestival2016Relay/I/out/subtask1_56.txt?dl=0"
+  },
+  "subtask1_57.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADVklpOpIAu3as2r0S9UNexa/CodeFestival2016Relay/I/in/subtask1_57.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADTVh3V8AenD0FT4yEqoqPSa/CodeFestival2016Relay/I/out/subtask1_57.txt?dl=0"
+  },
+  "subtask1_58.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAmBOUPNgfrz9xMwasQBBH5a/CodeFestival2016Relay/I/in/subtask1_58.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC0gYzhQyuFYbyoMJxM0q1Ya/CodeFestival2016Relay/I/out/subtask1_58.txt?dl=0"
+  },
+  "subtask1_59.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC_2uW6liARpiFFDNBed42Ra/CodeFestival2016Relay/I/in/subtask1_59.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAHRQl3gflk1TyVUQL31nsLa/CodeFestival2016Relay/I/out/subtask1_59.txt?dl=0"
+  },
+  "subtask1_60.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB_c284jz9Kc1gn0ltXxev5a/CodeFestival2016Relay/I/in/subtask1_60.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADGehIq9-GKs0BA8OKMjf-Na/CodeFestival2016Relay/I/out/subtask1_60.txt?dl=0"
+  },
+  "subtask1_61.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABQZ2mZjK6UYAqcXK-W2dAEa/CodeFestival2016Relay/I/in/subtask1_61.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAXFNywq3CBK0BSIRu5F-Pya/CodeFestival2016Relay/I/out/subtask1_61.txt?dl=0"
+  },
+  "subtask1_62.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABKL3GvDbiXrlSO7K-iXZaSa/CodeFestival2016Relay/I/in/subtask1_62.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADm9DJRsAxBYV5oYhngfYA-a/CodeFestival2016Relay/I/out/subtask1_62.txt?dl=0"
+  },
+  "subtask1_63.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACuoVW5kHlqu8LtxYFNXgpHa/CodeFestival2016Relay/I/in/subtask1_63.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAvQIdpZPc3COboHJI4I5q5a/CodeFestival2016Relay/I/out/subtask1_63.txt?dl=0"
+  },
+  "subtask1_64.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADZZorc6aa6rQsEylXtQL_da/CodeFestival2016Relay/I/in/subtask1_64.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABXa1JUR9nJrTf3kMhQYZuVa/CodeFestival2016Relay/I/out/subtask1_64.txt?dl=0"
+  },
+  "subtask1_65.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABIORy1z74u55jK5zMZ3dw8a/CodeFestival2016Relay/I/in/subtask1_65.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABLLAtMrHf6n7t9tOUt_u_Na/CodeFestival2016Relay/I/out/subtask1_65.txt?dl=0"
+  },
+  "subtask1_66.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAT6M6X2guXMlMJnu7dB57Va/CodeFestival2016Relay/I/in/subtask1_66.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABENB6hZgjo_qmt2te09AY3a/CodeFestival2016Relay/I/out/subtask1_66.txt?dl=0"
+  },
+  "subtask1_67.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAK-apOebA_wDxR_bpqLS7Va/CodeFestival2016Relay/I/in/subtask1_67.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAA-mc2HW656phlV0DRiWXea/CodeFestival2016Relay/I/out/subtask1_67.txt?dl=0"
+  },
+  "subtask1_68.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB0YGzDBnyPyM-7F5Lsr11Ca/CodeFestival2016Relay/I/in/subtask1_68.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABmPODQK19bHRKjc14bwNlAa/CodeFestival2016Relay/I/out/subtask1_68.txt?dl=0"
+  },
+  "subtask1_69.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACh0CI2g_rkJzuMpQ1BddzAa/CodeFestival2016Relay/I/in/subtask1_69.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACgIoLAjJuEiq73pl1rrLpNa/CodeFestival2016Relay/I/out/subtask1_69.txt?dl=0"
+  },
+  "subtask1_70.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAUWafyUJSIAmjKkMvn7v9ma/CodeFestival2016Relay/I/in/subtask1_70.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACArXK6ITPdLkJoHztPjIG1a/CodeFestival2016Relay/I/out/subtask1_70.txt?dl=0"
+  },
+  "subtask1_71.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADrJxLlACvc0EVZPOtWHvhXa/CodeFestival2016Relay/I/in/subtask1_71.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABENHJpywPKzdd_IbNeK-Qua/CodeFestival2016Relay/I/out/subtask1_71.txt?dl=0"
+  },
+  "subtask1_72.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACRzY-r46dxepoRduV00pJQa/CodeFestival2016Relay/I/in/subtask1_72.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACknaE70vcjSCsX0_FoqUOfa/CodeFestival2016Relay/I/out/subtask1_72.txt?dl=0"
+  },
+  "subtask1_73.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACzSq9paSI6RfZIJQ8fjfb-a/CodeFestival2016Relay/I/in/subtask1_73.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAqFXvVaPbVYLm8T-a4EQcRa/CodeFestival2016Relay/I/out/subtask1_73.txt?dl=0"
+  },
+  "subtask1_74.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADwQY6AS45fF9vjZT_ZUltna/CodeFestival2016Relay/I/in/subtask1_74.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAlMguq5-AfYW3H3sm8GO-Aa/CodeFestival2016Relay/I/out/subtask1_74.txt?dl=0"
+  },
+  "subtask1_75.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABKpsbXsz_QbiAVE6cWZb_7a/CodeFestival2016Relay/I/in/subtask1_75.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACv7LmUzynxdVILAEGbm-Haa/CodeFestival2016Relay/I/out/subtask1_75.txt?dl=0"
+  },
+  "subtask1_76.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACZyh3FeTbPl_vRF2aJ4ENza/CodeFestival2016Relay/I/in/subtask1_76.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAo56psPSRgS125QzEDGbtla/CodeFestival2016Relay/I/out/subtask1_76.txt?dl=0"
+  },
+  "subtask1_77.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC-l4FFqLmiYycxKkmwi990a/CodeFestival2016Relay/I/in/subtask1_77.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAmfQYSsEWPVIfEHJ7EbwrAa/CodeFestival2016Relay/I/out/subtask1_77.txt?dl=0"
+  },
+  "subtask1_78.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABuKsxXfgGo3TUhFNnX_UTQa/CodeFestival2016Relay/I/in/subtask1_78.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAW9DiYfG0I6PSaoksJG-lna/CodeFestival2016Relay/I/out/subtask1_78.txt?dl=0"
+  },
+  "subtask1_79.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC3QP-P5DYL1BWtO_FIRgsua/CodeFestival2016Relay/I/in/subtask1_79.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAPxk87UXDZDhruoqvridLHa/CodeFestival2016Relay/I/out/subtask1_79.txt?dl=0"
+  },
+  "subtask1_80.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABvRbkr_d4YJTtHDEw4udDBa/CodeFestival2016Relay/I/in/subtask1_80.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB8h4IjV0QVwAqVw_cCXp-Ja/CodeFestival2016Relay/I/out/subtask1_80.txt?dl=0"
+  },
+  "subtask1_81.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABUmfB1c-7Gqm1xxnO4XtNxa/CodeFestival2016Relay/I/in/subtask1_81.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA1x-ttqto6fzD-7136qOhia/CodeFestival2016Relay/I/out/subtask1_81.txt?dl=0"
+  },
+  "subtask1_82.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAsUFCTZVRt9G5CSo2fKQrda/CodeFestival2016Relay/I/in/subtask1_82.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADtSe8asnjEUQHBaAknRF_ia/CodeFestival2016Relay/I/out/subtask1_82.txt?dl=0"
+  },
+  "subtask1_83.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABTX6INV4RwafmHTSbqwUBFa/CodeFestival2016Relay/I/in/subtask1_83.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABK5EP_3W5RCVR-M3SnanWDa/CodeFestival2016Relay/I/out/subtask1_83.txt?dl=0"
+  },
+  "subtask1_84.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABVe8gzp5Af-M9Z8M64x_ixa/CodeFestival2016Relay/I/in/subtask1_84.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC16h_EZ7snZAl7ejLPyI9qa/CodeFestival2016Relay/I/out/subtask1_84.txt?dl=0"
+  },
+  "subtask1_85.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACYXGfWHe4M0wJtg8rxZ10qa/CodeFestival2016Relay/I/in/subtask1_85.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABHkW8UPy5JqIkFFCTHAdida/CodeFestival2016Relay/I/out/subtask1_85.txt?dl=0"
+  },
+  "subtask1_86.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADOx2SAKhN4JP3g8tz3UFqba/CodeFestival2016Relay/I/in/subtask1_86.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABAaP1EGjFYBd5AFx4HQsyFa/CodeFestival2016Relay/I/out/subtask1_86.txt?dl=0"
+  },
+  "subtask1_87.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAyyj4bLclThFC_ZuTmZj5va/CodeFestival2016Relay/I/in/subtask1_87.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABVDx14vjUm5rjtBz9zqNkqa/CodeFestival2016Relay/I/out/subtask1_87.txt?dl=0"
+  },
+  "subtask1_88.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAjATTMB-FWDv1amWtvjMBba/CodeFestival2016Relay/I/in/subtask1_88.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD4wfN7FSrau-l6DAJHGO2Oa/CodeFestival2016Relay/I/out/subtask1_88.txt?dl=0"
+  },
+  "subtask1_89.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA9fFKQXBRULwqXuGcaZXtca/CodeFestival2016Relay/I/in/subtask1_89.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAyTggjgJfWw7_ErTy2xPmua/CodeFestival2016Relay/I/out/subtask1_89.txt?dl=0"
+  },
+  "subtask1_90.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADa-V2u3WlAx1C_c0dh68XGa/CodeFestival2016Relay/I/in/subtask1_90.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB-QOL1u0Qfq3vbubbh6EwVa/CodeFestival2016Relay/I/out/subtask1_90.txt?dl=0"
+  },
+  "subtask1_91.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACdSxcCWvXk4nqLXNYqyngUa/CodeFestival2016Relay/I/in/subtask1_91.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABhb9MKLDSrT6F2vOs5JMHxa/CodeFestival2016Relay/I/out/subtask1_91.txt?dl=0"
+  },
+  "subtask1_92.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB6AZkEoMur1GhohKu9fGeua/CodeFestival2016Relay/I/in/subtask1_92.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADSi4h5L3d0IKI3AsQ6kAooa/CodeFestival2016Relay/I/out/subtask1_92.txt?dl=0"
+  },
+  "subtask1_93.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADVHLMpAYn3TOV1ZRGmvliVa/CodeFestival2016Relay/I/in/subtask1_93.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAV1CPHW3Yn4nqG3bfgstJaa/CodeFestival2016Relay/I/out/subtask1_93.txt?dl=0"
+  },
+  "subtask1_94.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADye2gblkN5soOHnvpopbYga/CodeFestival2016Relay/I/in/subtask1_94.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADpwXAOsA2jLC8vkPx43qMXa/CodeFestival2016Relay/I/out/subtask1_94.txt?dl=0"
+  },
+  "subtask1_95.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADUA1KX4TJoLaurb9IRnuOKa/CodeFestival2016Relay/I/in/subtask1_95.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAQkbeHGzzd0x5pLromDl_oa/CodeFestival2016Relay/I/out/subtask1_95.txt?dl=0"
+  },
+  "subtask1_96.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADYsYmdv-KTLNZIIyAdXyEna/CodeFestival2016Relay/I/in/subtask1_96.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABL-Lcs-mSVb-leAY48w5jha/CodeFestival2016Relay/I/out/subtask1_96.txt?dl=0"
+  },
+  "subtask1_97.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC_fwIgZPfFoiguaerItWama/CodeFestival2016Relay/I/in/subtask1_97.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADPnRUbPR_PxvnB-79C1pvea/CodeFestival2016Relay/I/out/subtask1_97.txt?dl=0"
+  },
+  "subtask1_98.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADUIzh2S0Nj_BOLo6uMvF9La/CodeFestival2016Relay/I/in/subtask1_98.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC8UHbeAqfEQ4isjjOVp0SXa/CodeFestival2016Relay/I/out/subtask1_98.txt?dl=0"
+  },
+  "subtask1_99.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD_3Q9vWmi599edkTVfZmOHa/CodeFestival2016Relay/I/in/subtask1_99.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACS0FdWIQTRtAwVmCoE_ebZa/CodeFestival2016Relay/I/out/subtask1_99.txt?dl=0"
+  }
+}

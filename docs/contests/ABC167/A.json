@@ -1,0 +1,46 @@
+{
+  "00-Sample-00": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABPBQXLkXzLhcWBz7kxGTEsa/ABC167/A/in/00-Sample-00?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAghSYdOcxYpuDhfrIjxHIva/ABC167/A/out/00-Sample-00?dl=0"
+  },
+  "00-Sample-01": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADB3O_fcOGq2T2qfaD-aLwGa/ABC167/A/in/00-Sample-01?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAPoAVRg0xuWB9zsfJpBJ4ha/ABC167/A/out/00-Sample-01?dl=0"
+  },
+  "00-Sample-02": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABYbljKxssxHWuSJ7bpi2sha/ABC167/A/in/00-Sample-02?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA_ZPBHGeTV1gKCommyEq4Ea/ABC167/A/out/00-Sample-02?dl=0"
+  },
+  "01-Handmade-00": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA8X3JFDJESK5SecMKgZ1MRa/ABC167/A/in/01-Handmade-00?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAi93LcFHiCbGtzikkaL5rXa/ABC167/A/out/01-Handmade-00?dl=0"
+  },
+  "01-Handmade-01": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB-eZds1naeXQYOAuMlr45ca/ABC167/A/in/01-Handmade-01?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADciiTB4R2sNNq8b2TILKIna/ABC167/A/out/01-Handmade-01?dl=0"
+  },
+  "01-Handmade-02": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADZ_BFEAdmafKCtI-ec_4Uba/ABC167/A/in/01-Handmade-02?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACDPVQgQTbeoPD51A_rOmJla/ABC167/A/out/01-Handmade-02?dl=0"
+  },
+  "01-Handmade-03": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADN5Er5FbBdC32fFEhIyZcsa/ABC167/A/in/01-Handmade-03?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADF29-1pOqf3HSouN_bTJGDa/ABC167/A/out/01-Handmade-03?dl=0"
+  },
+  "01-Handmade-04": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD_MasZYWHFr0fOHpnvZrPxa/ABC167/A/in/01-Handmade-04?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABqJtugxf3FnUi1zKRnQx7La/ABC167/A/out/01-Handmade-04?dl=0"
+  },
+  "02-Random-00": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD9bGQJv383lEJThPj26KHaa/ABC167/A/in/02-Random-00?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB-dHcuwmMF0uJ1Yb_0EFZca/ABC167/A/out/02-Random-00?dl=0"
+  },
+  "02-Random-01": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA03_smheLDfGluF3iMKvXRa/ABC167/A/in/02-Random-01?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADMu6aF4-2Hcr591Pnztqsua/ABC167/A/out/02-Random-01?dl=0"
+  },
+  "02-Random-02": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABU_CiIBag9Vf7l8iFTUqFka/ABC167/A/in/02-Random-02?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABKrM2FQz7EYkOBUeFi0hqUa/ABC167/A/out/02-Random-02?dl=0"
+  }
+}

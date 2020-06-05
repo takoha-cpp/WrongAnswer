@@ -1,0 +1,118 @@
+{
+  "sample_1.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABTuTkbYC2J6KtZVtQfYldTa/CodeFestival2016EliminationTournament/1A/in/sample_1.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADExsMDen8gn2Vca_h80dw5a/CodeFestival2016EliminationTournament/1A/out/sample_1.txt?dl=0"
+  },
+  "sample_2.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAc4s4zkg-UbL5y9BQFamt0a/CodeFestival2016EliminationTournament/1A/in/sample_2.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACMaqxEWf7n1lzJJz2WVOYDa/CodeFestival2016EliminationTournament/1A/out/sample_2.txt?dl=0"
+  },
+  "subtask_1_1.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC2YO8otYFUmdFYHdBssBeva/CodeFestival2016EliminationTournament/1A/in/subtask_1_1.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACACqQ_fd48CSW0_AQTjinFa/CodeFestival2016EliminationTournament/1A/out/subtask_1_1.txt?dl=0"
+  },
+  "subtask_1_10.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACwRHMQu7XgzJGtEQN_1IHRa/CodeFestival2016EliminationTournament/1A/in/subtask_1_10.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC9VGiEZtIfkvn9161fnioCa/CodeFestival2016EliminationTournament/1A/out/subtask_1_10.txt?dl=0"
+  },
+  "subtask_1_11.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAACPMmRqwAH9HXiI1-M4p8Ba/CodeFestival2016EliminationTournament/1A/in/subtask_1_11.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACLLjNTT7MpQ-0hJwh4JaZia/CodeFestival2016EliminationTournament/1A/out/subtask_1_11.txt?dl=0"
+  },
+  "subtask_1_2.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABvaVFCzYXy0fYTaZVgOjBha/CodeFestival2016EliminationTournament/1A/in/subtask_1_2.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACXC0XUJzW6CMhnTdLD0Cola/CodeFestival2016EliminationTournament/1A/out/subtask_1_2.txt?dl=0"
+  },
+  "subtask_1_3.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA2l7UYzI90Otq11wy0vt8Ja/CodeFestival2016EliminationTournament/1A/in/subtask_1_3.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC8vvBvgA2q5XzSLn6zEY_Ca/CodeFestival2016EliminationTournament/1A/out/subtask_1_3.txt?dl=0"
+  },
+  "subtask_1_4.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADaErA7KTbybJcJBjvA6T2ma/CodeFestival2016EliminationTournament/1A/in/subtask_1_4.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABpp2jt-XLGQkjg2XY_HoOfa/CodeFestival2016EliminationTournament/1A/out/subtask_1_4.txt?dl=0"
+  },
+  "subtask_1_5.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADsSFd0zsQXUpBwkgJ12gk-a/CodeFestival2016EliminationTournament/1A/in/subtask_1_5.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADTmBoAKfr06vkbuKe9rPbYa/CodeFestival2016EliminationTournament/1A/out/subtask_1_5.txt?dl=0"
+  },
+  "subtask_1_6.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADFN86FNPs6oR2YVAkZ5pODa/CodeFestival2016EliminationTournament/1A/in/subtask_1_6.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACBq94HMJmFIhxlrvSanRtYa/CodeFestival2016EliminationTournament/1A/out/subtask_1_6.txt?dl=0"
+  },
+  "subtask_1_7.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADPEm8jpydihx32Vq1MEqRza/CodeFestival2016EliminationTournament/1A/in/subtask_1_7.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAJyybe3b3kzPJ4etLZyePwa/CodeFestival2016EliminationTournament/1A/out/subtask_1_7.txt?dl=0"
+  },
+  "subtask_1_8.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAApr3WzntncXy6j7AcSl9dPa/CodeFestival2016EliminationTournament/1A/in/subtask_1_8.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB9iZoW1Py0BPGpnstyJzqna/CodeFestival2016EliminationTournament/1A/out/subtask_1_8.txt?dl=0"
+  },
+  "subtask_1_9.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADqmR0VMvIbMvFGX_YxoO60a/CodeFestival2016EliminationTournament/1A/in/subtask_1_9.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAWGWiTbf6uKoJpd6lnocP6a/CodeFestival2016EliminationTournament/1A/out/subtask_1_9.txt?dl=0"
+  },
+  "subtask_2_1.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAOND-72F1LPDG-1n6-_WlZa/CodeFestival2016EliminationTournament/1A/in/subtask_2_1.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABWnm0u54i-PWaYll23Uj13a/CodeFestival2016EliminationTournament/1A/out/subtask_2_1.txt?dl=0"
+  },
+  "subtask_2_2.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADMu44GfcbhrmqQERfyc0hwa/CodeFestival2016EliminationTournament/1A/in/subtask_2_2.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC2v7UAC-eiftfW2g9T-rcia/CodeFestival2016EliminationTournament/1A/out/subtask_2_2.txt?dl=0"
+  },
+  "subtask_2_3.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD96Zb5aSWPIJK5RfX1Geena/CodeFestival2016EliminationTournament/1A/in/subtask_2_3.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADJ3CqqaRksJ2vg8kcSPcIfa/CodeFestival2016EliminationTournament/1A/out/subtask_2_3.txt?dl=0"
+  },
+  "subtask_2_4.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADI3kSrya-aXWECaAl8KPxPa/CodeFestival2016EliminationTournament/1A/in/subtask_2_4.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABw0PFRoc_Fywgw0sYXMl7ba/CodeFestival2016EliminationTournament/1A/out/subtask_2_4.txt?dl=0"
+  },
+  "subtask_2_5.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAV3dnOKFRMrpw8XnMgHuaMa/CodeFestival2016EliminationTournament/1A/in/subtask_2_5.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACIJ7AqKTdPlb8tqWMwLHFja/CodeFestival2016EliminationTournament/1A/out/subtask_2_5.txt?dl=0"
+  },
+  "subtask_2_6.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAt4yxO8innIHhw8B9TkPaia/CodeFestival2016EliminationTournament/1A/in/subtask_2_6.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABqPsw4u4bPMu9NUKrdNB7ga/CodeFestival2016EliminationTournament/1A/out/subtask_2_6.txt?dl=0"
+  },
+  "subtask_2_7.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABawfs3F1itgb-CW-9_bAf_a/CodeFestival2016EliminationTournament/1A/in/subtask_2_7.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACq2NrL6bCpgNdV-85L5L-xa/CodeFestival2016EliminationTournament/1A/out/subtask_2_7.txt?dl=0"
+  },
+  "subtask_2_8.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC_YoACak8R3Q_s8rloM-kca/CodeFestival2016EliminationTournament/1A/in/subtask_2_8.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA_x_X1xaveIo274UF9jGxHa/CodeFestival2016EliminationTournament/1A/out/subtask_2_8.txt?dl=0"
+  },
+  "subtask_3_1.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABktpnGXzhojr5Gds8LG_kNa/CodeFestival2016EliminationTournament/1A/in/subtask_3_1.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAXPgprdBJ10qxMM8KQ0kXba/CodeFestival2016EliminationTournament/1A/out/subtask_3_1.txt?dl=0"
+  },
+  "subtask_3_2.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABnd2sqTMcsVrO7fyC8JGZda/CodeFestival2016EliminationTournament/1A/in/subtask_3_2.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABSY4nSTOC4M1lL3OQ1WYqMa/CodeFestival2016EliminationTournament/1A/out/subtask_3_2.txt?dl=0"
+  },
+  "subtask_3_3.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADlUc6wNdefFjO_dSIIvBWSa/CodeFestival2016EliminationTournament/1A/in/subtask_3_3.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADl1d6ENOV0SH9A_cN2MKWba/CodeFestival2016EliminationTournament/1A/out/subtask_3_3.txt?dl=0"
+  },
+  "subtask_3_4.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADBk6v28dYqBiPEaWC4KMOja/CodeFestival2016EliminationTournament/1A/in/subtask_3_4.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABAqDxT6UoFgzf-sNKsmSQAa/CodeFestival2016EliminationTournament/1A/out/subtask_3_4.txt?dl=0"
+  },
+  "subtask_3_5.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAPhcWOYMy9mh8QxWUKIEfya/CodeFestival2016EliminationTournament/1A/in/subtask_3_5.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABPBOsDUbrrIWg2Uax0Lv8Ua/CodeFestival2016EliminationTournament/1A/out/subtask_3_5.txt?dl=0"
+  },
+  "subtask_3_6.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADR4gvy64I6n9h77Dh87fH2a/CodeFestival2016EliminationTournament/1A/in/subtask_3_6.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACVKNdOAafy0PFTsQm7jUkVa/CodeFestival2016EliminationTournament/1A/out/subtask_3_6.txt?dl=0"
+  },
+  "subtask_3_7.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACOrEydBGwIpO2O1i0aCGooa/CodeFestival2016EliminationTournament/1A/in/subtask_3_7.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA3euf0TWeE7Ci6sXKTE3f0a/CodeFestival2016EliminationTournament/1A/out/subtask_3_7.txt?dl=0"
+  },
+  "subtask_3_8.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAfHSyzxCB5z5osbH84bbFpa/CodeFestival2016EliminationTournament/1A/in/subtask_3_8.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA4clUU_9lh6zs2Zdrva7UHa/CodeFestival2016EliminationTournament/1A/out/subtask_3_8.txt?dl=0"
+  }
+}

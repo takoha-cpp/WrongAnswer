@@ -1,0 +1,62 @@
+{
+  "sample_01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACGcw7_90iwPSbk3uA2z9dCa/ARC067/E/in/sample_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAt0xivIfbSH_ZCiC0GGEjMa/ARC067/E/out/sample_01.txt?dl=0"
+  },
+  "sample_02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADr4kGO9UqCGQ3u3T1JGE6Oa/ARC067/E/in/sample_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACFwHo1f-6gzkMrov1AYPh6a/ARC067/E/out/sample_02.txt?dl=0"
+  },
+  "sample_03.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABh7lXMM73KBdo2iZ30Exx9a/ARC067/E/in/sample_03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACVyZnn3Mt1SjY9oCpMzQWCa/ARC067/E/out/sample_03.txt?dl=0"
+  },
+  "sample_04.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACajgGWTxh7UtRb3874HXlCa/ARC067/E/in/sample_04.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADT0-_LvhwutNw2TwgWXtPYa/ARC067/E/out/sample_04.txt?dl=0"
+  },
+  "subtask_1_many_01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACik4gqwfzEZbub2wojOtrGa/ARC067/E/in/subtask_1_many_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADX2aUDJ1ihxT1dd8WnwqZ3a/ARC067/E/out/subtask_1_many_01.txt?dl=0"
+  },
+  "subtask_1_many_02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABX_0fUHQLzuzVNwfdGGZT-a/ARC067/E/in/subtask_1_many_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABREooskx4B6bZbmLSS0lT9a/ARC067/E/out/subtask_1_many_02.txt?dl=0"
+  },
+  "subtask_1_many_03.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADkSC39jDCWHab5LD-AYjI8a/ARC067/E/in/subtask_1_many_03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABFM-h_KiUQyfnYCz0jFJuXa/ARC067/E/out/subtask_1_many_03.txt?dl=0"
+  },
+  "subtask_1_many_04.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC91dMOruT54gMGKyklFHK-a/ARC067/E/in/subtask_1_many_04.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAANj3EJJhc9HgtlPwU9Y5Bpa/ARC067/E/out/subtask_1_many_04.txt?dl=0"
+  },
+  "subtask_1_max_01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADHJh6bJapovaFsw2qly_tka/ARC067/E/in/subtask_1_max_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADn2L62iY6iNAOALWRSKuiea/ARC067/E/out/subtask_1_max_01.txt?dl=0"
+  },
+  "subtask_1_max_02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACOzPh1Pdu_CB7aI_58jQb6a/ARC067/E/in/subtask_1_max_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACPdTp7pPYVl3G5tMUgk7RXa/ARC067/E/out/subtask_1_max_02.txt?dl=0"
+  },
+  "subtask_1_min_01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADgpEgCS-IoJufH0n3h7hhxa/ARC067/E/in/subtask_1_min_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB3B7TjFFoaG32WnBdCKMRoa/ARC067/E/out/subtask_1_min_01.txt?dl=0"
+  },
+  "subtask_1_randa_01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAANGzft7B2X-v-Bes8Ca75ba/ARC067/E/in/subtask_1_randa_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACc98QSsEsdjIOa7v4EDKBsa/ARC067/E/out/subtask_1_randa_01.txt?dl=0"
+  },
+  "subtask_1_randa_02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA3ACCBIwNC8ZAGXGF1AGWQa/ARC067/E/in/subtask_1_randa_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABr5jsk0hb9-mM_lK1Xd9uHa/ARC067/E/out/subtask_1_randa_02.txt?dl=0"
+  },
+  "subtask_1_randb_01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABYFy4jzC_tGJSr3wFB0xMpa/ARC067/E/in/subtask_1_randb_01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABFJ5Gb_UEizdStL7K1RVkia/ARC067/E/out/subtask_1_randb_01.txt?dl=0"
+  },
+  "subtask_1_randb_02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADuQXgblnDaSUbQQXtbAcNQa/ARC067/E/in/subtask_1_randb_02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABnBXf18ls9-n0dXSinmFTKa/ARC067/E/out/subtask_1_randb_02.txt?dl=0"
+  }
+}

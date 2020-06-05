@@ -1,0 +1,38 @@
+{
+  "01-01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADw1NxBMXmhr3m_ZFTKfmcPa/CodeFestival2016Final/A/in/01-01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD6xOwhoTpVFAUGEJMgV1ZXa/CodeFestival2016Final/A/out/01-01.txt?dl=0"
+  },
+  "01-02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACkB82DFk2L9j6cUstgeXuYa/CodeFestival2016Final/A/in/01-02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABAe7Ddg5OLqvqq3dYTdp86a/CodeFestival2016Final/A/out/01-02.txt?dl=0"
+  },
+  "01-03.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAEURZX2XVwM3yxuWRvYFtXa/CodeFestival2016Final/A/in/01-03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADvQaYO0d2CeOlrfpMt14jCa/CodeFestival2016Final/A/out/01-03.txt?dl=0"
+  },
+  "01-04.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABTMF3BsVtvTI1XYZ3ckYyla/CodeFestival2016Final/A/in/01-04.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADBUWN64MpDoKjiw30pITopa/CodeFestival2016Final/A/out/01-04.txt?dl=0"
+  },
+  "01-05.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADKUOjmBvvti_CwwAiLHZMha/CodeFestival2016Final/A/in/01-05.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB-q7fwbPOr4mlvbHJsw35Ka/CodeFestival2016Final/A/out/01-05.txt?dl=0"
+  },
+  "01-06.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACUH3KLUnWGKrSWiOjdG_Kca/CodeFestival2016Final/A/in/01-06.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADMNVe8ghyrvsWzWkRbN8soa/CodeFestival2016Final/A/out/01-06.txt?dl=0"
+  },
+  "01-07.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADwl-IvPzsCYhLdB33IQSiGa/CodeFestival2016Final/A/in/01-07.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABoIdcrSQF2EUWc8YmbRMPSa/CodeFestival2016Final/A/out/01-07.txt?dl=0"
+  },
+  "sample-01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABLNNKXSUMYf6m3HNhhTE_fa/CodeFestival2016Final/A/in/sample-01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACet8vEr-tidgmr9tVldw4ia/CodeFestival2016Final/A/out/sample-01.txt?dl=0"
+  },
+  "sample-02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAL9Vgip_9xbJqlfKF05vwka/CodeFestival2016Final/A/in/sample-02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACjeOQtMckviZUEUXsGAn9ha/CodeFestival2016Final/A/out/sample-02.txt?dl=0"
+  }
+}

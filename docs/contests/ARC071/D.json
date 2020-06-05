@@ -1,0 +1,70 @@
+{
+  "0_000.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC5cOjPR47BSEIOKj53NrFpa/ARC071/D/in/0_000.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAn_fM8Lf6FLcb01MkwDhl6a/ARC071/D/out/0_000.txt?dl=0"
+  },
+  "0_001.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAnSwqLRHjvgOO4b_X7QLvOa/ARC071/D/in/0_001.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABG5UJF0r5MP2yQ8bMyHp03a/ARC071/D/out/0_001.txt?dl=0"
+  },
+  "max.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABMxgYJ3Q6rpoy1usfkbhbga/ARC071/D/in/max.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADN-dGOTUZzSTbYgnl5669ra/ARC071/D/out/max.txt?dl=0"
+  },
+  "min.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADbGGe66uoa4iB1lvdFoELpa/ARC071/D/in/min.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADzZumLVi2vQoiWbwvEEpXja/ARC071/D/out/min.txt?dl=0"
+  },
+  "mod.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADTc-vJpfM8-efInO2BqxSha/ARC071/D/in/mod.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB7a7sT_uVD40SBMBXeuT9La/ARC071/D/out/mod.txt?dl=0"
+  },
+  "n2.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAx0y7Q7m7MtEHWUiusQ5Tma/ARC071/D/in/n2.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACh3BziuS9-jWI6_yUNjBSta/ARC071/D/out/n2.txt?dl=0"
+  },
+  "rndA.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADTfIooCl-jx1HDXAe9Eknya/ARC071/D/in/rndA.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACel4v-IkpULIBelohlJdKwa/ARC071/D/out/rndA.txt?dl=0"
+  },
+  "rndB.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABcIf3wjQyI6zP5vkcaEJsma/ARC071/D/in/rndB.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACeVoC0-UtNO7QVxcOTpcIVa/ARC071/D/out/rndB.txt?dl=0"
+  },
+  "rndC.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACvP2QnkY_Uow5t11OEHCDZa/ARC071/D/in/rndC.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADYtC-oVkJc_hV5H2Eaezv0a/ARC071/D/out/rndC.txt?dl=0"
+  },
+  "rndD.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACPtHZikEOOQsbF0gdRMsl2a/ARC071/D/in/rndD.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADG3KkhLOGdQvDbhF6L0bl4a/ARC071/D/out/rndD.txt?dl=0"
+  },
+  "rndE.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADkCCO4XviKHCERKMtTOcNwa/ARC071/D/in/rndE.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAchTQQ8gK90v6u9vYOFrzxa/ARC071/D/out/rndE.txt?dl=0"
+  },
+  "rndF.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACOng8d9tjI-NFmgKzTQDNsa/ARC071/D/in/rndF.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB9CpHJewc6hX9Bv60i5xkba/ARC071/D/out/rndF.txt?dl=0"
+  },
+  "rndG.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAkbUDBh_jDi_exqE6JU7iua/ARC071/D/in/rndG.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABNXBAmFE8mfiaPFsf0zTjha/ARC071/D/out/rndG.txt?dl=0"
+  },
+  "rndH.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADyTlS1XLWnkNwletc3ItrFa/ARC071/D/in/rndH.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAByObcBnLEayXmBs1nLmnpya/ARC071/D/out/rndH.txt?dl=0"
+  },
+  "rndI.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAARvfGlmkzYM7Bb4W96CLM7a/ARC071/D/in/rndI.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABXIjUxekdXXCQTmOhUKVoGa/ARC071/D/out/rndI.txt?dl=0"
+  },
+  "rndJ.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACYV3eIetK5xcg5k6euuHE2a/ARC071/D/in/rndJ.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABjgEweAZ-9dwkQ1NE0cgT8a/ARC071/D/out/rndJ.txt?dl=0"
+  },
+  "var.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB6fkjneakDj-c16W7lclCha/ARC071/D/in/var.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADKM5pbX-VrMXARasbTG5Rva/ARC071/D/out/var.txt?dl=0"
+  }
+}

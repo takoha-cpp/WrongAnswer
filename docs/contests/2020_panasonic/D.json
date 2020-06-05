@@ -1,0 +1,42 @@
+{
+  "000.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADtIMut6QGrHXmRkcMgdldya/2020_panasonic/D/in/000.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABCMVyaiK-p6g3sh4YjoaVea/2020_panasonic/D/out/000.txt?dl=0"
+  },
+  "001.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAGCMa-qZlVh8WLr79-mAFYa/2020_panasonic/D/in/001.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACCn5VOfelddxQhMgwQ1txja/2020_panasonic/D/out/001.txt?dl=0"
+  },
+  "002.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC8RBnJskGkhmm_yv7kzXa1a/2020_panasonic/D/in/002.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABHNwkpYN_-hnG-Z_hr295ea/2020_panasonic/D/out/002.txt?dl=0"
+  },
+  "003.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABovZb4MVAJBL4eZZlQTw6Ba/2020_panasonic/D/in/003.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAOPWuuCgcrgXQcG2PnkYTca/2020_panasonic/D/out/003.txt?dl=0"
+  },
+  "004.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACEI5-Fjsmn7NJ-zjZIk_eKa/2020_panasonic/D/in/004.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAt3evnkZwrHhHkcrc8N4Gca/2020_panasonic/D/out/004.txt?dl=0"
+  },
+  "005.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAvbJJkvJcdiGvibcujLZ7ya/2020_panasonic/D/in/005.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACOs5avzpWIebXOaxe2mDnpa/2020_panasonic/D/out/005.txt?dl=0"
+  },
+  "006.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAATDgQpsAP7K52W4cjNdfBa/2020_panasonic/D/in/006.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACZ17YinQppelLoGhgClkWaa/2020_panasonic/D/out/006.txt?dl=0"
+  },
+  "007.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACSJ1597MXwOkGZAtlFm6NNa/2020_panasonic/D/in/007.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAARnAjNJz_ppkxoeP6fKqBZa/2020_panasonic/D/out/007.txt?dl=0"
+  },
+  "example0.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABpg0K9uA2ty6S8RNw5fmaOa/2020_panasonic/D/in/example0.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAhn09s42PJGuoX4-qfyRwLa/2020_panasonic/D/out/example0.txt?dl=0"
+  },
+  "example1.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADkecBJiEi3OmIGAWBR026aa/2020_panasonic/D/in/example1.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAA3i8wnAET-gawbyO2zFHTKa/2020_panasonic/D/out/example1.txt?dl=0"
+  }
+}

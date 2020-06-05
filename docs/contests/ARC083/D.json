@@ -1,0 +1,70 @@
+{
+  "01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAFiBlOlXqPNH4WcI2LudbVa/ARC083/D/in/01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAuacYhJZkty4mXJoy39JF6a/ARC083/D/out/01.txt?dl=0"
+  },
+  "02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADZ4OAaLn-P4Kja4lMWxKQZa/ARC083/D/in/02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAm28fdpHb_dLKd2KDXkvLia/ARC083/D/out/02.txt?dl=0"
+  },
+  "03.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACOZ6HDJLjcpCRAy8XPpMR0a/ARC083/D/in/03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAZ4jNshfc3DQoPuoaXI4Yka/ARC083/D/out/03.txt?dl=0"
+  },
+  "04.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAfdz7TjRK6ZvaQoKxH2ZEpa/ARC083/D/in/04.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAUPo_at1uq42fTNcZs8NVza/ARC083/D/out/04.txt?dl=0"
+  },
+  "05.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB-DIWgIhoH7eEnyyyMo6qta/ARC083/D/in/05.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABrPCTQO0VCvbOqCOo3Rzpda/ARC083/D/out/05.txt?dl=0"
+  },
+  "06.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADvmqb9kwhqaP_sMQ_NCAEla/ARC083/D/in/06.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADKCBqiAeGJg0zq-uNSeCWla/ARC083/D/out/06.txt?dl=0"
+  },
+  "07.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACGaWIINvYDCmTcZBeO10-xa/ARC083/D/in/07.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACio6_g7lWp_qNeu32J91rOa/ARC083/D/out/07.txt?dl=0"
+  },
+  "08.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADKySONwL8hfy12pmMRmujUa/ARC083/D/in/08.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACbmbRUvJX5wsxjIegDXNt8a/ARC083/D/out/08.txt?dl=0"
+  },
+  "09.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB5Lp1C-9aK_5Co5Rf2jQXka/ARC083/D/in/09.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD5KZ6J5-x5GNsqd5cMxnV8a/ARC083/D/out/09.txt?dl=0"
+  },
+  "10.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACb15po6TEw6PfvZbT2R2j2a/ARC083/D/in/10.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD4Wb6S1BGV-iYVfBmRZw3Ba/ARC083/D/out/10.txt?dl=0"
+  },
+  "11.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAApwBxFhNiT_xcbFJWOr3Yla/ARC083/D/in/11.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAxmMBCZJ6S7wLu5wLEHiSNa/ARC083/D/out/11.txt?dl=0"
+  },
+  "12.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAZqyuHBCidvcCdcTqy6ij4a/ARC083/D/in/12.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADv3u17aV-lCCbjhf687qiua/ARC083/D/out/12.txt?dl=0"
+  },
+  "13.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABD3mmiGiSQc8yLx0BJprTma/ARC083/D/in/13.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACtfvkCZ9OhiSUbKJJ6WSfia/ARC083/D/out/13.txt?dl=0"
+  },
+  "subtask0_0.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABz128IEPMPGu-ctFmr2GSba/ARC083/D/in/subtask0_0.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACxIdFU3lSV9BwxXGk3sQjpa/ARC083/D/out/subtask0_0.txt?dl=0"
+  },
+  "subtask0_1.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACbXYM8af4Hz6sGfDfqAza2a/ARC083/D/in/subtask0_1.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADt4xqeDbNsFba_RHacYjMpa/ARC083/D/out/subtask0_1.txt?dl=0"
+  },
+  "subtask0_2.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADNvdFY1ghC4uJCgR4VZC9Ia/ARC083/D/in/subtask0_2.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC3irXgx2rtobhFA0F_65aJa/ARC083/D/out/subtask0_2.txt?dl=0"
+  },
+  "subtask0_3.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABryIR45sovM5-TYCTzt_ONa/ARC083/D/in/subtask0_3.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABJ8Lgq5oD-Jvt3TLtEbrpOa/ARC083/D/out/subtask0_3.txt?dl=0"
+  }
+}
