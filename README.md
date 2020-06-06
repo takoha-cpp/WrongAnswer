@@ -1,6 +1,8 @@
 # WrongAnswer
 Wrong Answer downloads test data of specified AtCoder contest's test cases.
 
+![Wrong Answer Demo](https://takoha-cpp.github.io/WrongAnswer/demo.gif)
+
 (日本語の説明は英語の下。Japanese README is below English)
 
 ## Install
