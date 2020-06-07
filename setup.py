@@ -5,8 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="wrong-answer",
-    version="0.0.1",
-    scripts=["wa"],
+    version="0.0.4",
     author="Takoha",
     author_email="author@example.com",
     description="Download AtCoder Testcases",
@@ -32,6 +31,11 @@ setuptools.setup(
     },
     install_requires = [
         'online-judge-tools >= 10.0.3'
+    ],
+    entry_points = {
+        'console_scripts': [
+            'wa = wrong_answer.main:main',
         ],
+    },
 )
 
