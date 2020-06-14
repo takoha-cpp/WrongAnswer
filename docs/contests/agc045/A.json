@@ -1,0 +1,14 @@
+{
+  "00-sample-01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADz_ZgUSXJ7Cz_LkKWKBLUqa/agc045/A/in/00-sample-01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAYbLGguQdtrI6VJ2DI9Z8Ya/agc045/A/out/00-sample-01.txt?dl=0"
+  },
+  "01-01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABT5TzhqNyibkHWkcT8e_Ola/agc045/A/in/01-01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACYqBL7I1-lSTBWFGzJwTMVa/agc045/A/out/01-01.txt?dl=0"
+  },
+  "01-02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACm6xDu7ace2RN67fKnbjpUa/agc045/A/in/01-02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADuqSgoBl_3DwFdXEX-f2lma/agc045/A/out/01-02.txt?dl=0"
+  }
+}
