@@ -240,6 +240,11 @@ def main():
         while b:
             bs += b
             b = r.raw.read(4096)
+            sys.stdout.write(str(len(bs)))
+            sys.stdout.write('\r')
+            sys.stdout.flush()
+        sys.stdout.write("\n")
+        sys.stdout.flush()
         zf = zipfile.ZipFile(io.BytesIO(bs))
         target_dir += f"/{problem}"
         Path(target_dir).mkdir(parents=True, exist_ok=True)
