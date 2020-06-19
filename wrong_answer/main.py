@@ -235,11 +235,11 @@ def main():
         log.info("Got a responce.")
         siz = sizeof_fmt(float(r.headers['Content-Length']))
         log.info(f"Reading... Size: {siz}")
-        b = r.raw.read(4096)
+        b = r.raw.read(40960)
         bs = bytearray()
         while b:
             bs += b
-            b = r.raw.read(4096)
+            b = r.raw.read(40960)
             sys.stdout.write(str(len(bs)))
             sys.stdout.write('\r')
             sys.stdout.flush()
