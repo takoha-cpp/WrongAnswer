@@ -1,0 +1,38 @@
+{
+  "in01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD-BJSqZJe7b3tlKOEwBbQ6a/tokiomarine2020/A/in/in01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB4SL54FvqaIjRbUDH0hUuha/tokiomarine2020/A/out/in01.txt?dl=0"
+  },
+  "in02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACbMUXXQjdARN0787lKRCbra/tokiomarine2020/A/in/in02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACFeQBx76zp6BiB9Do1Uojga/tokiomarine2020/A/out/in02.txt?dl=0"
+  },
+  "in03.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACssmBB0RNSP1E7_ZaED1v1a/tokiomarine2020/A/in/in03.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACg4knw64X-_FWpGMAUFslea/tokiomarine2020/A/out/in03.txt?dl=0"
+  },
+  "in04.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACcPt2Ghh-vETdDt3NqsIHla/tokiomarine2020/A/in/in04.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABhXjKBrwjaoGAzCSB8jJdxa/tokiomarine2020/A/out/in04.txt?dl=0"
+  },
+  "in05.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AADMSQuHo_1fpGtmCs1eUmlPa/tokiomarine2020/A/in/in05.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACKeJImsttBaPWVk_ZbBSh-a/tokiomarine2020/A/out/in05.txt?dl=0"
+  },
+  "in06.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAp8a-yNOJuwe9bVQaLcYE3a/tokiomarine2020/A/in/in06.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAColfVhB2xS5ig9IL9usqLja/tokiomarine2020/A/out/in06.txt?dl=0"
+  },
+  "in07.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAHfIj9j3KHgZ3eq6UidIEda/tokiomarine2020/A/in/in07.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB85fxNyLqS8Smyns7_0D3Ca/tokiomarine2020/A/out/in07.txt?dl=0"
+  },
+  "sample01.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAANaM0HS6ynjdn1vlS9l3QYa/tokiomarine2020/A/in/sample01.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB27UdIFTOQ8_DoagsK1R9fa/tokiomarine2020/A/out/sample01.txt?dl=0"
+  },
+  "sample02.txt": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACPehj5QA_8rFwEhmISvkRSa/tokiomarine2020/A/in/sample02.txt?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACsrASn1XaBYToQKCk3n2_na/tokiomarine2020/A/out/sample02.txt?dl=0"
+  }
+}
