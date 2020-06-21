@@ -110,6 +110,7 @@ def main():
             Thank you.""", usage = '%(prog)s [contest] problem [test_case]')
     parser.add_argument('-c', '--contest', help='specify contest name explicitly (You can omit this when you use triple)')
     parser.add_argument('-u', '--updatedb', action='store_true', help='update database')
+    parser.add_argument('-l', '--list', action='store_true', help='print contest list')
     parser.add_argument('cases', nargs='*')
 
     args = parser.parse_args()
@@ -120,6 +121,12 @@ def main():
         log.status(f"{BASE_URLS} updated.")
         if len(args.cases) == 0:
             exit(0)
+    if args.list:
+        with open(BASE_URLS, "r") as f:
+            for X in f:
+                X = X.split()[0]
+                print(X)
+        exit(0)
 
     argc = len(args.cases)
     if argc == 0:
@@ -240,8 +247,8 @@ def main():
         while b:
             bs += b
             b = r.raw.read(40960)
-            sys.stdout.write(str(len(bs)))
             sys.stdout.write('\r')
+            sys.stdout.write(str(len(bs)))
             sys.stdout.flush()
         sys.stdout.write("\n")
         sys.stdout.flush()

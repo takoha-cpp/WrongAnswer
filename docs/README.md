@@ -19,13 +19,14 @@ pip install wrong-answer
 
 ## Requirements
 
-They might be installed with WrongAnswer. But if they ain't, install them by using pip3.
+You need Python3 (>= v3.6)
 
 ```
-Python3 >= v3.6
 online-judge-tools
 requests
 ```
+
+These pkgs might be installed with WrongAnswer (if you haven't installed online-judge-tools yet).
 
 ## How-to
 
@@ -33,23 +34,28 @@ requests
 wa [contest-name] problem-name [testcase-name]
 wa --cotest contest-name problem
 wa --updatedb
+wa --list
 ```
+
+Specify what you want to download by arguments.
 
 If you omit contest-name, current directory will be used as contest name. (Because I make a direcotry named after contest name always.)
 
-problem-name must be alphabet. lower-case will be uppered automatically. WA will make a directory as the same name as problem and saves the result into the directory.
+If you don't know what the contest name which you want to download, you can use `--list` option, or you can just ask like `wa --contest t`. That will display contest names including `t`.
+
+problem-name must be alphabet. lower-case will be uppered automatically. WA will make a directory as the same name as problem and saves the result into that directory. (See GIF animation above.)
 
 If you specify testcase-name, it will be matched by test-cases, and the 1st one will be downloaded. WA will download both input and output data at the same time, and rename those files as ".in" and ".out" format for using with online-judge-tools.
 
-If you omit testcase-name, all testcase data for one problem will be downloaded. But this can be very huge for some problems. Watch out! I warned you.
+If you omit testcase-name, all testcase data for one problem will be downloaded. But this can be very huge and slow. Watch out! I warned you.
 
 ## How this works
 
 Dropbox has a unique URL for every single file and folder. I made a crawler and collect all URLs for data set. Why? Because Dropbox's URL uses hash values so you can't estimate what file has what URL.
 
-All URLs are uploaded to this repository. And WA will download URL from this repository at first. Then download test cases from Dropbox. This is wierd, but at least it works!
+All URLs are gathered and uploaded to this repository. And WA will download URL from this repository at first. Then download test cases from Dropbox. This is wierd, but at least it works!
 
-WA will make copy of URLs into your local folder. So once you download specific URL, it won't download again from this repository.
+WA will make copy of URLs into your local folder (as `.problems` and `.wrong-answer`). So once you download specific URL, it won't download again from this repository.
 
 When AtCoder Inc. add another data set, I should upload that URL and there should be time gap for WA being able to download those data set. Please be patient and report to me if there are test data that already on AtCoder's Dropbox but WA cant' download them.
 
@@ -69,7 +75,7 @@ pip install wrong-answer
 
 ## 依存パッケージ
 
-依存パッケージはpip3が同時にインストールするはずですが、もしpackageが無いというエラーが出た場合には別途pip3にてインストールしてみて下さい。
+依存パッケージはpip3が同時にインストールするはずです.
 
 ```
 online-judge-tools
@@ -89,17 +95,20 @@ wa problem test-case
 wa contest problem test-case
 wa --contest contest-name problem
 wa --updatedb
+wa --list
 ```
 
-コンテスト名は省略するとカレントディレクトリ名がコンテスト名として自動的に利用されます。私がいつもコンテスト毎にディレクトリを切るためです。
+コンテスト名にはabc160等を指定します。もしコンテスト名がわからない場合には`--list`を用いて一覧を表示するか、`wa --contest t`等と入力すると`t`を含むコンテスト名一覧が表示されます。
 
-問題名はアルファベットのAからFとかですがコンテストによってはC1とかC2とかもあり利用可能です。小文字でかまいませんが大文字に勝手に変換されます。
+コンテスト名は省略するとカレントディレクトリ名がコンテスト名として自動的に利用されます。
+
+問題名はアルファベットのAからF等ですがコンテストによってはC1とかC2とかもあり利用可能です。小文字でかまいませんが大文字に勝手に変換されます。
 
 テストケース名は適当に入力するとファイル名にmatchする最初のテストケースがDLされます。
 
-テストケースを省略すると1つの問題に対する全てのテストケースをDLします。A問題とかなら大丈夫ですが、D以降になると恐しくテストデータがでかくなる傾向があり1つで13MBとかも出てきます。そのため全部DLするというのはあまりお勧めできません。WAを食らった憎い問題のテストケースだけDLしたほうが良いです。
+テストケースを省略すると1つの問題に対する全てのテストケースをDLします。A問題なら大丈夫ですが、D以降になると恐しくテストデータがでかくなる傾向があり1つで60MBとかも出てきます。そのため全部DLするというのはあまりお勧めできません。WAを食らった憎い問題のテストケースだけDLしたほうが良いです。
 
-DLされたテストケースはonline-judge-toolsでテストするために1つのディレクトリに".in"と".out"の拡張子にリネームされて保存されます。ですので
+DLされたテストケースはonline-judge-toolsでテストするために1つのディレクトリに".in"と".out"の拡張子にリネームされて保存されます。例えばA問題のテストケースをDLした場合で、A問題を解くプログラム、a.outがカレントディレクトリにある場合ならば、
 
 ```
 oj test -d A
@@ -111,7 +120,7 @@ oj test -d A
 
 ## 中身の話
 
-Dropboxは公開フォルダの中のファイル、フォルダ全てのURLにhash値が割り振られております。これは恐らくDropboxの巨大な分散ファイルシステム上では*nix系のpathを用いてはいないのかと思います。これによりユーザはWeb上で公開されたデータがどこにあるのかpathが分かっていてもURLを推測することはできなくなっています。
+Dropboxは公開フォルダの中のファイル、フォルダ全てのURLにhash値が割り振られております。これは恐らくDropboxの巨大な分散ファイルシステム上では`*nix`系のpathを用いてはいないのかと思います。これによりユーザはWeb上で公開されたデータがどこにあるのかpathが分かっていてもURLを推測することはできなくなっています。
 
 そのため全てのテストケースのファイルのURLを収集してこのリポジトリに登録してpathの関係からURLを検索できるようにしました。
 
