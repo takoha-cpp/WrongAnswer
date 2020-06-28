@@ -206,7 +206,13 @@ def main():
                 URL2 = J[i]['out']
                 break
         else:
-            log.error(f"Problem '{problem}' not found in {testcases_path}")
+            log.error(f"Test case '{case}' not found in {testcases_path}")
+            with open(testcases_path, "r") as f:
+                print()
+                log.info(f"Problem {problem} has these test cases.")
+                for i in J:
+                    print(f"{i}", end=" ")
+                print()
             exit(1)
         target_dir += '/' + problem
         downloadSingleCase(URL1, target_dir)
