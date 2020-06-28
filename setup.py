@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="wrong-answer",
-    version="0.0.6",
+    version="0.0.7",
     author="Takoha",
     author_email="author@example.com",
     description="Download AtCoder Testcases",
