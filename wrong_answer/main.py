@@ -166,25 +166,7 @@ def main():
 # You can find ARC contest name from the problem's page URL
     if contest is None:
         contest = os.path.basename(os.getcwd()).upper()
-        log.warning("Contest name not specified. Use current dir as contest name.")
-
-        # This is my rule. Each problem's web page urls are in '.problems'
-        if Path('.problems').exists():
-            with open('.problems') as f:
-                url = f.readlines()[ord(problem) - ord('A')].rsplit()[0]
-                contest = url.split('/')[-1].split('_')[0].upper()
-        else:
-            url = f"https://atcoder.jp/contests/{contest}"
-            result = get_contest.main(dispatch.contest_from_url(url), is_full=False, session=session)
-            ps = result['problems']
-            for i in ps:
-                if i['context']['alphabet'] == problem:
-                    url = i['url']
-                    break;
-            else:
-                log.error(f"Specified problem '{problem}' not found in the contest page")
-                exit(1)
-            contest = url.split('/')[-1].split('_')[0].upper()
+        log.warning(f"Contest name not specified. Use current dir '{contest}' as contest name.")
 
 # This URL is for whole test cases of a contest. Ignore.
     [contest, URL] = findContest(contest).split()
