@@ -167,6 +167,31 @@ def main():
     if contest is None:
         contest = os.path.basename(os.getcwd()).upper()
         log.warning(f"Contest name not specified. Use current dir '{contest}' as contest name.")
+        if (contest[0:3] == "ABC"):
+
+            # This is my rule. Each problem's web page urls are in '.problems'
+            if Path('.problems').exists():
+                with open('.problems') as f:
+                    url = f.readlines()[ord(problem) - ord('A')].rsplit()[0]
+                    comtest = url.split('/')[-1].split('_')[0].upper()
+            else:
+                url = f"https://atcoder.jp/contests/{contest}"
+                result = get_contest.main(dispatch.contest_from_url(url), is_full=False, session=session)
+                ps = result['problems']
+                for i in ps:
+                    if i['context']['alphabet'] == problem:
+                        url = i['url']
+                        break;
+                else:
+                    log.error(f"Specified problem '{problem}' not found in the contest page")
+                    exit(1)
+                comtest = url.split('/')[-1].split('_')[0].upper()
+
+            if (contest != comtest):
+                log.warning(f"Look like the data are in '{comtest}'.")
+                log.warning(f"Download data from '{comtest}' instead of '{contest}'") 
+                log.warning(f"If you see errors, please use --contest option next time.")
+                contest = comtest
 
 # This URL is for whole test cases of a contest. Ignore.
     [contest, URL] = findContest(contest).split()
@@ -229,7 +254,7 @@ def main():
 
         log.info("Got a responce.")
         siz = sizeof_fmt(float(r.headers['Content-Length']))
-        log.info(f"Reading... Size: {siz}")
+        log.info(f"Downloading... Size: {siz}")
         b = r.raw.read(40960)
         bs = bytearray()
         while b:
@@ -248,6 +273,8 @@ def main():
             if i.is_dir(): continue
             path = PurePath(i.filename)
             fn = path.stem
+            if path.match("*.nkftmpjKHWPL"): continue
+            if path.match("*.swp"): continue
             if path.match("out/*"):
                 nfn = f"{target_dir}/{fn}.out"
             else:
