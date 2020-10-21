@@ -11,13 +11,14 @@ import zipfile
 import argparse
 import requests
 import onlinejudge.dispatch as dispatch
-import onlinejudge._implementation.logging as log
 import onlinejudge_api.get_contest as get_contest
-
+import onlinejudge_command.log_formatter as log_formatter
+import onlinejudge_command.utils as utils
 
 from enum import Enum, unique, auto
 from pathlib import Path, PurePath
 from urllib.parse import urlparse
+from logging import DEBUG, INFO, StreamHandler, basicConfig, getLogger
 
 @unique
 class Mode(Enum):
@@ -25,8 +26,10 @@ class Mode(Enum):
     PROBLEM = auto()
     TESTCASE = auto()
 
-log.addHandler(log.logging.StreamHandler(sys.stderr))
-log.setLevel(log.logging.INFO)
+log = getLogger(__name__)
+handler = StreamHandler(sys.stdout)
+handler.setFormatter(log_formatter.LogFormatter())
+basicConfig(level=INFO, handlers=[handler])
 
 user_data_dir = pathlib.Path(appdirs.user_data_dir('wrong_answer'))
 os.makedirs(user_data_dir, exist_ok=True)
@@ -35,7 +38,7 @@ BASE_URLS = f"{user_data_dir}/folders.txt"
 
 session = requests.Session()
 agent = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36',
 }
 
 # sizeof_fmt is from https://bit.ly/3c5Lr6Z by Fred Cirera
@@ -50,10 +53,10 @@ def download(url, saveto):
     log.info(f"Download: {url}")
     r = session.get(url, headers=agent)
     if r.status_code != requests.codes.ok:
-        log.error(f"Download '{url}' failed.")
+        log.error(utils.red(f"Download '{url}' failed."))
         exit(1)
     else:
-        log.success("Succeeded")
+        log.info(utils.SUCCESS + "Succeeded")
     with open(saveto, "w") as f:
         f.write(r.text)
 
@@ -89,10 +92,10 @@ def downloadSingleCase(url:str, target_dir:str, out:bool=False) -> None:
     log.info(f"Download: {URL}")
     r = session.get(URL, headers=agent)
     if r.status_code != requests.codes.ok:
-        log.error("Download failed.")
+        log.error(utils.FAILURE + utils.red("Download failed."))
         exit(1)
     else:
-        log.info("Download Succeeded")
+        log.info(utils.SUCCESS + "Download Succeeded")
     target_file = target_dir + '/' + filename
     log.info(f"Save to: {target_file}")
     with open(target_file, "w") as fw:
@@ -118,7 +121,7 @@ def main():
 
     if args.updatedb:
         download(GITHUB_URL + '/folders.txt', BASE_URLS)
-        log.status(f"{BASE_URLS} updated.")
+        log.info(f"{BASE_URLS} updated.")
         if len(args.cases) == 0:
             exit(0)
     if args.list:
@@ -224,7 +227,7 @@ def main():
         target_dir += '/' + problem
         downloadSingleCase(URL1, target_dir)
         downloadSingleCase(URL2, target_dir, out=True)
-        log.success("Succeeded")
+        log.info(utils.SUCCESS + "Succeeded")
         exit(0)
 
     elif MODE == Mode.PROBLEM:
@@ -284,7 +287,7 @@ def main():
                 with open(nfn, "w") as fw:
                     for line in fr:
                         fw.write(line.decode('utf-8').replace('\r',''))
-        log.success(log.green('AC'))
+        log.info(utils.green('AC'))
         exit(0)
 
 if __name__ == '__main__':

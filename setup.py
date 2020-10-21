@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="wrong-answer",
-    version="0.0.9",
+    version="0.0.10",
     author="Takoha",
     author_email="author@example.com",
     description="Download AtCoder Testcases",
@@ -30,7 +30,7 @@ setuptools.setup(
         'Source': 'https://github.com/takoha-cpp/WrongAnswer',
     },
     install_requires = [
-        'online-judge-tools >= 10.0.3'
+        'online-judge-tools >= 11.0.0'
     ],
     entry_points = {
         'console_scripts': [
