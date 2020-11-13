@@ -1,0 +1,34 @@
+{
+  "example_00.in": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAADnVFSMiTn15YbyCk1MA6ua/ARC107/A/in/example_00.in?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACyoVpkBw07U0t7A6rLjjmma/ARC107/A/out/example_00.out?dl=0"
+  },
+  "example_01.in": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC8kKGKT9clkMo9SWHV0lKya/ARC107/A/in/example_01.in?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAp9NyAqQEw3eqYRjLU0D0Ha/ARC107/A/out/example_01.out?dl=0"
+  },
+  "max_random_00.in": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB65wu9EG171_vTN-R2JFYta/ARC107/A/in/max_random_00.in?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC93NAoq7vcjynmnRYx2RbSa/ARC107/A/out/max_random_00.out?dl=0"
+  },
+  "max_random_01.in": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAlAOySNqNC4i-Qnl6a_phBa/ARC107/A/in/max_random_01.in?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABpBcTS1n0LPETUnbfGvSNDa/ARC107/A/out/max_random_01.out?dl=0"
+  },
+  "max_random_02.in": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACQ2VJDse4vN4iOP_cnvmlga/ARC107/A/in/max_random_02.in?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAVxW4ZwYNsTH0x-PCCFEoaa/ARC107/A/out/max_random_02.out?dl=0"
+  },
+  "small_00.in": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACgTS4JWGT4wwG_uqT-ojV8a/ARC107/A/in/small_00.in?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB9-k9tpJ_7ONvYB46ZN6KFa/ARC107/A/out/small_00.out?dl=0"
+  },
+  "small_01.in": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACBGaXlwqPBy34cb5aih9lBa/ARC107/A/in/small_01.in?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAD5VI6j-kOPRyRxdDZA_DEga/ARC107/A/out/small_01.out?dl=0"
+  },
+  "small_02.in": {
+    "in": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABre5OgyhluJrfcTky85NmWa/ARC107/A/in/small_02.in?dl=0",
+    "out": "https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAB6YbtfW93Z4yfssjC45HDLa/ARC107/A/out/small_02.out?dl=0"
+  }
+}
